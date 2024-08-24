@@ -1,0 +1,8 @@
+item_syrnl_main_trapcomp
+1/1-screw
+1/1-1hit
+1/1-2hit
+1/1-3hit
+1/1-4hit
+1/1-5hit
+[OBJECT:ITEM]

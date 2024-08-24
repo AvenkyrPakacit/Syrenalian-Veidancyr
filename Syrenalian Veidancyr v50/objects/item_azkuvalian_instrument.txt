@@ -1,0 +1,23 @@
+item_azkuvalian_instrument
+
+[OBJECT:ITEM]
+
+[ITEM_INSTRUMENT:GUITAR_AZKUVALIAN]
+[NAME:skavityri:skavityria]
+[VALUE:50]
+[SIZE:25000]20000/body, 5000/head
+[MATERIAL_SIZE:6]
+[METAL_MAT]
+[VOLUME_mB:0:10000]
+[SOUND_PRODUCTION:PLUCKED_BY_BP:SELF]
+[SOUND_PRODUCTION:RESONATOR:SELF]
+[PITCH_CHOICE:KEYBOARD:SELF]
+[PITCH_CHOICE:SLIDE:SELF]
+[TUNING:PEGS:SELF]
+[TUNING:LEVERS:SELF]
+[PITCH_RANGE:420:4200]
+[TIMBRE:PURE:RIPPLING:STEADY]
+[REGISTER:420:1680:FLUID:LIQUID]
+[REGISTER:2100:4200:RESONANT:RINGING:VIBRATING]
+[MUSIC_SKILL:PLAY_STRINGED_INSTRUMENT]
+[DESCRIPTION:The skavityri is a mid-size hand-held string instrument. It consists of a metalic body and head. The musician tunes the instrument via a set of levers and pegs. Sound is produced via strings, and a resonator with a pitch set via a keyboard and slide. It bears a low-high octave range comprised of a consistant pure steadily rippling timbre. It has two registers. The low register comprises of a low-mid pitch fluid liquid timbre, whereas the high register comprises of a resonating mid-high pitch ringing vibration.]

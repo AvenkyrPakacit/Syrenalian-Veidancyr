@@ -1,0 +1,4 @@
+entity_octusarian
+1/1 anytemperate entity
+1/1 subterraneanwater3 entity
+[OBJECT:ENTITY]
