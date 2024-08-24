@@ -1,0 +1,11 @@
+creature_doratorian_medium 1x3
+5/5 anybroadleaftemperate medium 360-
+5/5 anyforest medium 450-
+5/5 anypool medium 15-
+5/5 anytemperateforest medium 540-
+5/5 broadleaftemperate medium 720-
+5/5 conifertemperate medium 630-
+5/5 poolbrackishwatertemperate medium 90-
+5/5 poolfreshwatertemperate medium 180-
+5/5 poolsaltwatertemperate medium 270-
+[OBJECT:CREATURE]

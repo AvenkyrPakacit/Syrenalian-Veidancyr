@@ -1,0 +1,6 @@
+creature_octusarian_small 7
+5/5 anytemperate small 2200-2225
+5/5 subterraneanwater3 small 2230-2255
+[OBJECT:CREATURE]
+
+

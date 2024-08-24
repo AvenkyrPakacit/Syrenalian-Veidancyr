@@ -1,0 +1,8 @@
+creature_eiltaresian_large 5
+5/5 glacier large
+5/5 oceanartic large
+10/10 taiga large
+5/5 tundra large
+[OBJECT:CREATURE]
+
+

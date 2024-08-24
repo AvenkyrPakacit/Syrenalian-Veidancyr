@@ -1,0 +1,6 @@
+creature_einfieran_small 8
+5/5 anytropical small 2260-2285
+5/5 subterraneanlava small 2290-2315
+[OBJECT:CREATURE]
+
+

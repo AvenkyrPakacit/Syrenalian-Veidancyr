@@ -1,0 +1,6 @@
+creature_eiltaresian_vermin 5x1
+5/5 glacier vermin 140-165
+5/5 oceanartic vermin 25-50
+10/10 taiga vermin 55-105
+5/5 tundra vermin 110-135
+[OBJECT:CREATURE]

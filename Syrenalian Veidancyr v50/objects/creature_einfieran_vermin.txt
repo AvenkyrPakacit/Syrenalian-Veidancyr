@@ -1,0 +1,4 @@
+creature_einfieran_vermin 8x1
+5/5 anytropical vermin 40-65
+5/5 subterraneanlava vermin 70-95
+[OBJECT:CREATURE]

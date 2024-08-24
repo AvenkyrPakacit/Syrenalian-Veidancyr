@@ -1,0 +1,15 @@
+creature_eilsavian_vermin 3x1
+5/5 anyriver vermin 15-40
+5/5 anyrivertemperate vermin 45-70
+5/5 anyrivertropical vermin 75-100
+5/5 anyshrubland vermin 285-310
+5/5 riverbrackishwatertemperate vermin 105-130
+5/5 riverbrackishwatertropical vermin 135-160
+5/5 riverfreshwatertemperate vermin 165-190
+5/5 riverfreshwatertropical vermin 195-220
+5/5 riversaltwatertemperate vermin 225-250
+5/5 riversaltwatertropical vermin 255-280
+5/5 shrublandtemperate vermin 315-340
+5/5 shrublandtropical vermin 345-370
+5/5 subterraneanwater2 vermin 375-400
+[OBJECT:CREATURE]

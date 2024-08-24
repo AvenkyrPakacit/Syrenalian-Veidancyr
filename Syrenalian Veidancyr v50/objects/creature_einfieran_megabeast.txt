@@ -1,0 +1,7 @@
+creature_einfieran_megabeast 8
+highest large + 5 x (megabeast = 6), (semimegabeast = 5)
+1/1 anytropical megabeast
+1/1 anytropical semimegabeast
+[OBJECT:CREATURE]
+
+

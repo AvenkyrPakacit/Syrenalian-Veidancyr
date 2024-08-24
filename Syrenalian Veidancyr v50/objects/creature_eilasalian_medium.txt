@@ -1,0 +1,4 @@
+creature_eilasalian_medium 6
+5/5 grasslandtemperate medium
+5/5 subterraneanwater1 medium
+[OBJECT:CREATURE]

@@ -1,0 +1,6 @@
+creature_eiltaresian_medium 5
+5/5 glacier medium
+5/5 oceanartic medium
+10/10 taiga medium
+5/5 tundra medium
+[OBJECT:CREATURE]

@@ -1,0 +1,15 @@
+creature_dasdarfoxan_small 4
+5/5 anyocean large 1665-1690
+5/5 anydesert small 1845-1870
+5/5 anysavanna small 1755-1780
+5/5 desertbadlands small 1935-1960
+5/5 desertrock small 1905-1930
+5/5 desertsand small 1875-1900
+5/5 oceantemperate small 1695-1720
+5/5 oceantropical small 1725-1750
+5/5 savannatemperate small 1785-1810
+5/5 savannatropical small 1815-1840
+5/5 subterraneanchasm2 small 1965-1990
+[OBJECT:CREATURE]
+
+

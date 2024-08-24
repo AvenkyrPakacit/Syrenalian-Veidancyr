@@ -1,0 +1,6 @@
+creature_eilasalian_wilderness
+5/5 grasslandtemperate wilderness GRASSLAND_TEMPERATE
+5/5 subterraneanwater1 wilderness SUBTERRANEAN_WATER
+[OBJECT:CREATURE]
+
+

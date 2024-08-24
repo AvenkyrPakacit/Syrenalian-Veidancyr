@@ -1,0 +1,17 @@
+creature_eilsavian_small 3
+5/5 anyriver small 1275-1300
+5/5 anyrivertemperate small 1305-1330
+5/5 anyrivertropical small 1335-1360
+5/5 anyshrubland small 1545-1570
+5/5 riverbrackishwatertemperate small 1365-1390
+5/5 riverbrackishwatertropical small 1395-1420
+5/5 riverfreshwatertemperate small 1425-1450
+5/5 riverfreshwatertropical small 1455-1480
+5/5 riversaltwatertemperate small 1485-1510
+5/5 riversaltwatertropical small 1515-1540
+5/5 shrublandtemperate small 1575-1600
+5/5 shrublandtropical small 1605-1630
+5/5 subterraneanwater2 small 1635-1660
+[OBJECT:CREATURE]
+
+

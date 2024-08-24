@@ -1,0 +1,6 @@
+creature_octusarian_wilderness
+5/5 anytemperate wilderness ANY_TEMPERATE
+5/5 subterraneanwater3 wilderness SUBTERRANEAN_WATER
+[OBJECT:CREATURE]
+
+

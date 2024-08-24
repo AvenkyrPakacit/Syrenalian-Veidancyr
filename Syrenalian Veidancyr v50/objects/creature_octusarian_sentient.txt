@@ -1,0 +1,6 @@
+creature_octusarian_sentient
+1/1 anytemperate sentient
+1/1 subterraneanwater3 sentient
+[OBJECT:CREATURE]
+
+

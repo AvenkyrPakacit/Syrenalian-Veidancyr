@@ -1,0 +1,11 @@
+creature_eiltaresian_megabeast 5
+highest large + 5 x (megabeast = 6), (semimegabeast = 5)
+1/1 glacier megabeast
+1/1 glacier semimegabeast
+2/2 taiga megabeast
+2/2 taiga semimegabeast
+1/1 tundra megabeast
+1/1 tundra semimegabeast
+[OBJECT:CREATURE]
+
+

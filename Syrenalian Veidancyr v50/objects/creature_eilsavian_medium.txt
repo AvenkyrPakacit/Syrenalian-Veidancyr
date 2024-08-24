@@ -1,0 +1,12 @@
+creature_eilsavian_medium 3
+5/5 anyriver medium
+5/5 anyrivertemperate medium
+5/5 anyrivertropical medium
+5/5 anyshrubland medium
+5/5 riverbrackishwatertropical medium
+5/5 riverfreshwatertropical medium
+5/5 riversaltwatertropical medium
+5/5 shrublandtemperate medium
+5/5 shrublandtropical medium
+5/5 subterraneanwater2 medium
+[OBJECT:CREATURE]
