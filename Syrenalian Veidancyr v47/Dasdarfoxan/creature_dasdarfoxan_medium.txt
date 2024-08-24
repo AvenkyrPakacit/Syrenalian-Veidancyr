@@ -1,0 +1,17 @@
+creature_dasdarfoxan_medium 4
+5/5 anyocean medium
+5/5 anydesert medium
+5/5 anysavanna medium
+5/5 desertbadlands medium
+5/5 desertrock medium
+4/5 desertsand medium veilbreather rockjumper
+5/5 oceantemperate medium
+5/5 oceantropical medium
+5/5 savannatemperate medium
+5/5 savannatropical medium
+5/5 subterraneanchasm2 medium
+[OBJECT:CREATURE]
+
+veilbreather rockjumper
+
+The sand-stained amphibian blends within the dusts, shrouding themself to maintain constant safety. For their scaly hide makes for common armour.

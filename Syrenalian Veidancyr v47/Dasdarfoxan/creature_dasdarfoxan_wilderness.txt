@@ -1,0 +1,17 @@
+creature_dasdarfoxan_wilderness
+5/5 anyocean wilderness ANY_OCEAN
+5/5 anydesert wilderness ANY_DESERT
+5/5 anysavanna wilderness ANY_SAVANNA
+5/5 desertbadlands wilderness DESERT_BADLAND
+5/5 desertrock wilderness DESERT_ROCK
+4/5 desertsand wilderness dune goliath DESERT_SAND
+5/5 oceantemperate wilderness OCEAN_TEMPERATE
+5/5 oceantropical wilderness OCEAN_TROPICAL
+5/5 savannatemperate wilderness SAVANNA_TEMPERATE
+5/5 savannatropical wilderness SAVANNA_TROPICAL
+5/5 subterraneanchasm2 wilderness SUBTERRANEAN_CHASM
+[OBJECT:CREATURE]
+
+dune goliath
+
+Bearing a set of 10 eyes, the towering goliath stands to the awe of those around.

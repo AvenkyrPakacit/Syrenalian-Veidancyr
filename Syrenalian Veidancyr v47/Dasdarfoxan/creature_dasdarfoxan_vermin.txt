@@ -1,0 +1,13 @@
+creature_dasdarfoxan_vermin 4x1
+5/5 anyocean vermin 20-45
+5/5 anydesert vermin 200-225
+5/5 anysavanna vermin 110-135
+5/5 desertbadlands vermin 290-315
+5/5 desertrock vermin 260-285
+5/5 desertsand vermin 230-255
+5/5 oceantemperate vermin 50-75
+5/5 oceantropical vermin 80-105
+5/5 savannatemperate vermin 140-165
+5/5 savannatropical vermin 170-195
+5/5 subterraneanchasm2 vermin 320-345
+[OBJECT:CREATURE]

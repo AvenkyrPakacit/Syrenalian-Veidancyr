@@ -1,0 +1,17 @@
+creature_dasdarfoxan_large 4
+5/5 anyocean large
+5/5 anydesert large
+5/5 anysavanna large
+5/5 desertbadlands large
+5/5 desertrock large
+4/5 desertsand large dune prowler
+5/5 oceantemperate large
+5/5 oceantropical large
+5/5 savannatemperate large
+5/5 savannatropical large
+5/5 subterraneanchasm2 large
+[OBJECT:CREATURE]
+
+dune prowler
+
+The clashing of teeth from the fleshy crevice below their void-like eyes beckon forth a fearful approach. A tail like saws spinning behind their bent back horns, forwarns their fiendish nature.
