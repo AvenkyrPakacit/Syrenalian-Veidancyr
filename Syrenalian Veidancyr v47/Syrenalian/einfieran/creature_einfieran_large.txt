@@ -1,0 +1,6 @@
+creature_einfieran_large 8
+5/5 anytropical large
+5/5 subterraneanlava large
+[OBJECT:CREATURE]
+
+

@@ -1,0 +1,7 @@
+creature_octusarian_sentient
+1/1 anytemperate sentient
+-vanistalyxian
+1/1 subterraneanwater3 sentient blood drinker
+[OBJECT:CREATURE]
+
+

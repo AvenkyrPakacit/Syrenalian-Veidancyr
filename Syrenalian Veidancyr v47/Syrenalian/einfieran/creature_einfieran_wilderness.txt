@@ -1,0 +1,6 @@
+creature_einfieran_wilderness
+5/5 anytropical wilderness ANY_TROPICAL
+5/5 subterraneanlava wilderness SUBTERRANEAN_LAVA
+[OBJECT:CREATURE]
+
+

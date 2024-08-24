@@ -1,0 +1,4 @@
+creature_octusarian_vermin 7x1
+5/5 anytemperate vermin 35-60
+5/5 subterraneanwater3 vermin 65-90
+[OBJECT:CREATURE]

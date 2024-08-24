@@ -1,0 +1,45 @@
+item_syrnl_main_shoes
+0/1-armorlevel 1 soft, leather / woven thread
+1/1-armorlevel 1 leather, metal / chain
+1/2-armorlevel 2 -barred, metal, and scaled
+2/2-armorlevel 3 -metal only
+2/2-clothing cover
+2/2-clothing over
+2/2-clothing under
+-upstep 1
+-upstep 2
+-upstep max
+[OBJECT:ITEM]
+
+[ITEM_SHOES:SYRNL_SHINGUARD_PADDED]
+[NAME:shinguard:shinguards]
+[METAL_ARMOR_LEVELS]
+[ADJECTIVE:padded]
+[ARMORLEVEL:1]
+[SHAPED]
+[UPSTEP:2]
+[LAYER:OVER]
+[COVERAGE:80]
+[LAYER_SIZE:10]
+[LAYER_PERMIT:20]
+[MATERIAL_SIZE:2]
+[SOFT]
+[LEATHER]
+[STRUCTURAL_ELASTICITY_WOVEN_THREAD]
+
+[ITEM_SHOES:SYRNL_SHINGUARD_RIVETED]
+[NAME:shinguard:shinguards]
+[METAL_ARMOR_LEVELS]
+[ADJECTIVE:riveted]
+[ARMORLEVEL:2]
+[SHAPED]
+[UPSTEP:2]
+[LAYER:OVER]
+[COVERAGE:80]
+[LAYER_SIZE:10]
+[LAYER_PERMIT:20]
+[MATERIAL_SIZE:2]
+[SCALED]
+[BARRED]
+[METAL]
+[HARD]

@@ -1,0 +1,21 @@
+creature_syrenalian_domestic
+CREATURE_CLASS:SYRENALIAN_DOMESTIC
+Eilasalian:
+1/1 -vermin 130 -light
+1/1 -small 135 -light
+1/1 -yarn 140 -medium
+1/1 -pack, mount, wagon 145 -medium
+1/1 -trainable 150 -hard
+Einfieran:
+1/1 -vermin 180 -light
+1/1 -small 185 -light
+1/1 -yarn 190 -medium
+1/1 -pack, mount, wagon 195 -hard
+1/1 -trainable, fire breather 200 -archaic vien'zei
+Octusarian:
+1/1 -vermin 155 -light
+1/1 -small 160 -light
+1/1 -yarn 165 -medium
+1/1 -pack, mount, wagon 170 -hard
+1/1 -trainable, blood drinker 175 -archaic syrenalian serpent
+[OBJECT:CREATURE]

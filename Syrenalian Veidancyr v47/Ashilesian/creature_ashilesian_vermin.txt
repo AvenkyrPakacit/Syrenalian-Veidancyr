@@ -1,0 +1,27 @@
+creature_ashilesian_vermin 2x1
+5/5 anylake vermin 10-50
+5/5 anylaketemperate vermin 55-80
+5/5 anylaketropical vermin 85-110
+5/5 anymarshtemperate vermin 385-410
+5/5 anymarshtropical vermin 415-440
+5/5 anyswamptemperate vermin 565-590
+5/5 anyswamptropical vermin 595-620
+5/5 anytemperatewetland vermin 325-350
+5/5 anytropicalwetland vermin 355-380
+5/5 anywetland vermin 295-320
+5/5 lakebrackishwatertemperate vermin 115-140
+5/5 lakebrackishwatertropical vermin 145-170
+5/5 lakefreshwatertemperate vermin 175-200
+5/5 lakefreshwatertropical vermin 205-230
+5/5 lakesaltwatertemperate vermin 235-260
+5/5 lakesaltwatertropical vermin 265-290
+5/5 marshfreshwatertemperate vermin 445-470
+5/5 marshfreshwatertropical vermin 475-500
+5/5 marshsaltwatertemperate vermin 505-530
+5/5 marshsaltwatertropical vermin 535-560
+5/5 swampfreshwatertemperate vermin 625-650
+5/5 swampfreshwatertropical vermin 655-680
+5/5 swampmangrove vermin 745-770
+5/5 swampsaltwatertemperate vermin 685-710
+5/5 swampsaltwatertropical vermin 715-740
+[OBJECT:CREATURE]

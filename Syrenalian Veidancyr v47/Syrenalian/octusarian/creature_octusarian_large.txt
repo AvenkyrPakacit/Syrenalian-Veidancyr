@@ -1,0 +1,6 @@
+creature_octusarian_large 7
+5/5 anytemperate large
+5/5 subterraneanwater3 large
+[OBJECT:CREATURE]
+
+

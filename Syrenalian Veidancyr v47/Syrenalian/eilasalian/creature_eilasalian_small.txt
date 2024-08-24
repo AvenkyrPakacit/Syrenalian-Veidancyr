@@ -1,0 +1,6 @@
+creature_eilasalian_small 6
+5/5 grasslandtemperate small 2140-2165
+5/5 subterraneanwater1 small 2170-2195
+[OBJECT:CREATURE]
+
+

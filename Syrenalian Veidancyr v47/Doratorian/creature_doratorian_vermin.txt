@@ -1,0 +1,11 @@
+creature_doratorian_vermin 1x1
+5/5 anybroadleaftemperate vermin 120-145
+5/5 anyforest vermin 150-175
+5/5 anypool vermin 5-25
+5/5 anytemperateforest vermin 180-205
+5/5 broadleaftemperate vermin 240-265
+5/5 conifertemperate vermin 210-235
+5/5 poolbrackishwatertemperate vermin 30-55
+5/5 poolfreshwatertemperate vermin 60-85
+5/5 poolsaltwatertemperate vermin 90-115
+[OBJECT:CREATURE]

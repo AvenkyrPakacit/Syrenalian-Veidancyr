@@ -1,0 +1,4 @@
+creature_einfieran_medium 8
+5/5 anytropical medium
+5/5 subterraneanlava medium
+[OBJECT:CREATURE]

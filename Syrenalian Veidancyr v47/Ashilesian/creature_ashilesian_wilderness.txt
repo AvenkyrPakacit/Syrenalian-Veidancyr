@@ -1,0 +1,28 @@
+creature_ashilesian_wilderness
+5/5 anylake wilderness ANY_LAKE
+5/5 anylaketemperate wilderness ANY_TEMPERATE_LAKE
+5/5 anylaketropical wilderness ANY_TROPICAL_LAKE
+5/5 anymarshtemperate wilderness ANY_TEMPERATE_MARSH
+5/5 anymarshtropical wilderness ANY_TROPICAL_MARSH
+5/5 anyswamptemperate wilderness ANY_TEMPERATE_SWAMP
+5/5 anyswamptropical wilderness ANY_TROPICAL_SWAMP
+5/5 anytemperatewetland wilderness ANY_TEMPERATE_WETLAND
+5/5 anytropicalwetland wilderness ANY_TROPICAL_WETLAND
+5/5 anywetland wilderness ANY_WETLAND
+5/5 lakebrackishwatertemperate wilderness LAKE_TEMPERATE_BRACKISHWATER
+5/5 lakebrackishwatertropical wilderness LAKE_TROPICAL_BRACKISHWATER
+5/5 lakefreshwatertemperate wilderness LAKE_TEMPERATE_FRESHWATER
+5/5 lakefreshwatertropical wilderness LAKE_TROPICAL_FRESHWATER
+5/5 lakesaltwatertemperate wilderness LAKE_TEMPERATE_SALTWATER
+5/5 lakesaltwatertropical wilderness LAKE_TROPICAL_SALTWATER
+5/5 marshfreshwatertemperate wilderness MARSH_TEMPERATE_FRESHWATER
+5/5 marshfreshwatertropical wilderness MARSH_TROPICAL_FRESHWATER
+5/5 marshsaltwatertemperate wilderness MARSH_TEMPERATE_SALTWATER
+5/5 marshsaltwatertropical wilderness MARSH_TROPICAL_SALTWATER
+5/5 swampfreshwatertemperate wilderness SWAMP_TEMPERATE_FRESHWATER
+5/5 swampfreshwatertropical wilderness SWAMP_TROPICAL_FRESHWATER
+5/5 swampmangrove wilderness SWAMP_MANGROVE
+5/5 swampsaltwatertemperate wilderness SWAMP_TEMPERATE_SALTWATER
+5/5 swampsaltwatertropical wilderness SWAMP_TROPPICAL_SALTWATER
+[OBJECT:CREATURE]
+

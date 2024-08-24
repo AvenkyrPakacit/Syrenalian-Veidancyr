@@ -1,0 +1,13 @@
+creature_azkuvalian_vermin 9x1
+5/5 anybroadleaftropical vermin 135-160
+5/5 anytropicalforest vermin 195-220
+5/5 broadleafdrytropical vermin 315-340
+5/5 broadleafmoisttropical vermin 285-310
+5/5 broadleaftropical vermin 255-280
+5/5 conifertropical vermin 225-250
+5/5 poolbrackishwatertropical vermin 45-70
+5/5 poolfreshwatertropical vermin 75-100
+5/5 poolsaltwatertropical vermin 105-130
+5/5 tropicalgrassland vermin 165-190
+5/5 subterraneanchasm1 vermin 345-370
+[OBJECT:CREATURE]

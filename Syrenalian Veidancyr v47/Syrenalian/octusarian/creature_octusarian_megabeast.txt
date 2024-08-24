@@ -1,0 +1,7 @@
+creature_octusarian_megabeast 7
+highest large + 5 x (megabeast = 6), (semimegabeast = 5)
+1/1 anytemperate megabeast
+1/1 anytemperate semimegabeast
+[OBJECT:CREATURE]
+
+

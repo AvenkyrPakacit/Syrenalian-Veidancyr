@@ -1,0 +1,7 @@
+creature_eilasalian_megabeast 6
+highest large + 5 x (megabeast = 6), (semimegabeast = 5)
+1/1 grasslandtemperate megabeast
+1/1 grasslandtemperate semimegabeast
+[OBJECT:CREATURE]
+
+

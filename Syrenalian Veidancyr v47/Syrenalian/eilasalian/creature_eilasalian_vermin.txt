@@ -1,0 +1,4 @@
+creature_eilasalian_vermin 6x1
+5/5 grasslandtemperate vermin 30-55
+5/5 subterraneanwater1 vermin 60-85
+[OBJECT:CREATURE]

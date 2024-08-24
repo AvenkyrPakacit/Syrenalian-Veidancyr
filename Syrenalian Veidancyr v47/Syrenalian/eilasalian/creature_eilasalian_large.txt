@@ -1,0 +1,6 @@
+creature_eilasalian_large 6
+5/5 grasslandtemperate large
+5/5 subterraneanwater1 large
+[OBJECT:CREATURE]
+
+

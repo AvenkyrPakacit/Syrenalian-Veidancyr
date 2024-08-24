@@ -1,0 +1,14 @@
+creature_einfieran_sentient
+1/1 anytropical sentient
+-ORIKATE
+-Variants:
+-aekavyr (2) light-born esper, high strength, very high ego and intelligence.
+-akevalyx (3) brutal techpriest, high attributes, very high strength
+-azkaos (5) bladesworn cyborg, high agility and willpower, very high strength and toughness.
+-balkine (6) brutal champion, high attributes, very high strength
+-ixanae (4) cosmic phaser, high intelligence and willpower.
+-orikate (7) vampiric dimension hunter, high ego and strength.
+-tamikai (1) exalted techpriest, ego, very high willpower.
+[OBJECT:CREATURE]
+
+
