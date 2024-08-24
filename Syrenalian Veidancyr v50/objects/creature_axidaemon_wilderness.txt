@@ -1,0 +1,10 @@
+creature_axidaemon_wilderness
+1/1 difficulty1 -axidaemon -FREQUENCY:52
+1/1 difficulty2 -FREQUENCY:50
+1/1 difficulty3 -FREQUENCY:48
+1/1 difficulty4 -FREQUENCY:46
+1/1 difficulty5 -FREQUENCY:44
+1/1 difficulty6 -FREQUENCY:42
+1/1 difficulty7 -FREQUENCY:40
+1/1 difficulty8 -axidaemon -FREQUENCY:38
+OBJECT:CREATURE

@@ -1,0 +1,14 @@
+creature_azkuvalian_wilderness
+5/5 anybroadleaftropical wilderness ANY_TROPICAL_BROADLEAF
+5/5 anytropicalforest wilderness ANY_TROPICAL_FOREST
+5/5 broadleafdrytropical wilderness FOREST_TROPICAL_DRY_BROADLEAF
+5/5 broadleafmoisttropical wilderness FOREST_TROPICAL_MOIST_BROADLEAF
+5/5 conifertropical wilderness FOREST_TROPICAL_CONIFER
+5/5 poolbrackishwatertropical wilderness POOL_TROPICAL_BRACKISHWATER
+5/5 poolfreshwatertropical wilderness POOL_TROPICAL_FRESHWATER
+5/5 poolsaltwatertropical wilderness POOL_TROPICAL_SALTWATER
+5/5 tropicalgrassland wilderness GRASSLAND_TROPICAL
+5/5 subterraneanchasm1 wilderness SUBTERRANEAN_CHASM
+[OBJECT:CREATURE]
+
+

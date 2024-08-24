@@ -1,0 +1,29 @@
+creature_ashilesian_small 2
+5/5 anylake small 
+5/5 anylaketemperate small 
+5/5 anylaketropical small 
+5/5 anymarshtemperate small 
+5/5 anymarshtropical small 
+5/5 anyswamptemperate small 
+5/5 anyswamptropical small 
+5/5 anytemperatewetland small 
+5/5 anytropicalwetland small 
+5/5 anywetland small 
+5/5 lakebrackishwatertemperate small 
+5/5 lakebrackishwatertropical small 
+5/5 lakefreshwatertemperate small 
+5/5 lakefreshwatertropical small 
+5/5 lakesaltwatertemperate small 
+5/5 lakesaltwatertropical small 
+5/5 marshfreshwatertemperate small 
+5/5 marshfreshwatertropical small 
+5/5 marshsaltwatertemperate small 
+5/5 marshsaltwatertropical small 
+5/5 swampfreshwatertemperate small 
+5/5 swampfreshwatertropical small 
+5/5 swampmangrove small 
+5/5 swampsaltwatertemperate small 
+5/5 swampsaltwatertropical small 
+[OBJECT:CREATURE]
+
+

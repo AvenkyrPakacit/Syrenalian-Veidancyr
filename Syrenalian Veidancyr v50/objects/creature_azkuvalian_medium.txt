@@ -1,0 +1,13 @@
+creature_azkuvalian_medium 9
+5/5 anybroadleaftropical medium
+5/5 anytropicalforest medium
+5/5 broadleafdrytropical medium
+5/5 broadleafmoisttropical medium
+5/5 broadleaftropical medium
+5/5 conifertropical medium
+5/5 poolbrackishwatertropical medium
+5/5 poolfreshwatertropical medium
+5/5 poolsaltwatertropical medium
+5/5 tropicalgrassland medium
+5/5 subterraneanchasm1 medium
+[OBJECT:CREATURE]

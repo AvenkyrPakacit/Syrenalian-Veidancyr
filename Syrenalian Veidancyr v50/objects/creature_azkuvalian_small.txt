@@ -1,0 +1,15 @@
+creature_azkuvalian_small 9
+5/5 anybroadleaftropical small 2440-2465
+5/5 anytropicalforest small 2470-2495
+5/5 broadleafdrytropical small 2590-2615
+5/5 broadleafmoisttropical small 2560-2585
+5/5 broadleaftropical small 2530-2555
+5/5 conifertropical small 2500-2525
+5/5 poolbrackishwatertropical small 2320-2345
+5/5 poolfreshwatertropical small 2350-2375
+5/5 poolsaltwatertropical small 2380-2405
+5/5 tropicalgrassland small 2410-2435
+5/5 subterraneanchasm1 small 2620-2645
+[OBJECT:CREATURE]
+
+

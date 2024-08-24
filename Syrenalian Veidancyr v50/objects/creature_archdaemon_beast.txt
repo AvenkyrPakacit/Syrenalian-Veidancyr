@@ -1,0 +1,9 @@
+creature_archdaemon_beast
+1/1 difficulty20 -archdaemon -FREQUENCY:14
+1/1 difficulty21 -FREQUENCY:12
+1/1 difficulty22 -FREQUENCY:10
+1/1 difficulty23 -FREQUENCY:8
+1/1 difficulty24 -FREQUENCY:6
+1/1 difficulty25 -FREQUENCY:4
+1/1 difficulty26 -archdaemon -FREQUENCY:2
+OBJECT:CREATURE
