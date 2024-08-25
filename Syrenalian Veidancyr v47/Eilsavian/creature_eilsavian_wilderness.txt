@@ -1,0 +1,17 @@
+creature_eilsavian_wilderness
+5/5 anyriver wilderness ANY_RIVER
+5/5 anyrivertemperate wilderness ANY_TEMPERATE_RIVER
+5/5 anyrivertropical wilderness ANY_TROPICAL_RIVER
+5/5 anyshrubland wilderness ANY_SHRUBLAND
+5/5 riverbrackishwatertemperate wilderness RIVER_TEMPERATE_BRACKISHWATER
+5/5 riverbrackishwatertropical wilderness RIVER_TROPICAL_BRACKISHWATER
+5/5 riverfreshwatertemperate wilderness RIVER_TEMPERATE_FRESHWATER
+5/5 riverfreshwatertropical wilderness RIVER_TROPICAL_FRESHWATER
+5/5 riversaltwatertemperate wilderness RIVER_TEMPERATE_SALTWATER
+5/5 riversaltwatertropical wilderness RIVER_TROPICAL_SALTWATER
+5/5 shrublandtemperate wilderness SHRUBLAND_TEMPERATE
+5/5 shrublandtropical wilderness SHRUBLAND_TROPICAL
+5/5 subterraneanwater2 wilderness SUBTERRANEAN_WATER
+[OBJECT:CREATURE]
+
+CEIVANI Ceivani/Ceivanis/Ceivanian anyshrubland

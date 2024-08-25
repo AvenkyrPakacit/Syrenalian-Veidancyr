@@ -1,0 +1,15 @@
+creature_eilsavian_large 3
+5/5 anyriver large
+5/5 anyrivertemperate large
+5/5 anyrivertropical large
+5/5 anyshrubland large
+5/5 riverbrackishwatertropical large
+5/5 riverfreshwatertropical large
+5/5 riversaltwatertropical large
+5/5 shrublandtemperate large
+5/5 shrublandtropical large
+5/5 subterraneanwater2 large
+[OBJECT:CREATURE]
+
+AGOSMOGMA anyshrubland archaic, savage
+Ancient beauty stands in a majestic form. Their manes flow in the wind, as grand majestic antlers jut out from their rostrum. Hooves of guilded fervour tread the vast dream, as psionic will emenates from their mind.

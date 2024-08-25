@@ -1,0 +1,9 @@
+creature_aizalvaran_wilderness
+5/5 allmain wilderness ALL_MAIN
+5/5 anyland wilderness ANY_LAND
+10/10 mountains wilderness MOUNTAIN, MOUNTAINS
+5/5 notfreezing wilderness NOT_FREEZING
+5/5 subterraneanchasm3 wilderness SUBTERRANEAN_CHASM
+[OBJECT:CREATURE]
+
+

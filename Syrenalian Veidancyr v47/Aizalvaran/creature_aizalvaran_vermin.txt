@@ -1,0 +1,7 @@
+creature_aizalvaran_vermin 10x1
+5/5 allmain vermin 50-75
+5/5 anyland vermin 80-105
+10/10 mountains vermin 140-165
+5/5 notfreezing vermin 110-135
+5/5 subterraneanchasm3 vermin 170-195
+[OBJECT:CREATURE]

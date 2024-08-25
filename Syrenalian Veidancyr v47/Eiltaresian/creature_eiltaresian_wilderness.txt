@@ -1,0 +1,8 @@
+creature_eiltaresian_wilderness
+5/5 glacier wilderness GLACIER
+5/5oceanartic wilderness OCEAN_ARTIC
+10/10 taiga wilderness FOREST_TAIGA TAIGA
+5/5 tundra wilderness TUNDRA
+[OBJECT:CREATURE]
+
+

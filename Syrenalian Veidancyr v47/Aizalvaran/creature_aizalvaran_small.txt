@@ -1,0 +1,9 @@
+creature_aizalvaran_small 10x2
+5/5 allmain small 100-150
+5/5 anyland small 160-210
+10/10 mountains small 280-330
+5/5 notfreezing small 220-270
+5/5 subterraneanchasm3 small 340-390
+[OBJECT:CREATURE]
+
+

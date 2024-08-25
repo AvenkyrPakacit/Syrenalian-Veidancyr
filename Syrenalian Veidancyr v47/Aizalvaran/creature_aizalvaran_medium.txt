@@ -1,0 +1,7 @@
+creature_aizalvaran_medium 10x3
+5/5 allmain medium 150-
+5/5 anyland medium 240-
+10/10 mountains medium 420-
+5/5 notfreezing medium 330-
+5/5 subterraneanchasm3 medium 510-
+[OBJECT:CREATURE]

@@ -1,0 +1,11 @@
+creature_eilsavian_megabeast 3
+highest large + 5 x (megabeast = 6), (semimegabeast = 5)
+1/1 anyshrubland megabeast
+1/1 anyshrubland semimegabeast
+1/1 shrublandtemperate megabeast
+1/1 shrublandtemperate semimegabeast
+1/1 shrublandtropical megabeast
+1/1 shrublandtropical semimegabeast
+[OBJECT:CREATURE]
+
+
