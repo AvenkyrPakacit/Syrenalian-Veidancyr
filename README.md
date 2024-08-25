@@ -4,14 +4,29 @@ This document is a **WORK IN PROGRESS** and should not be considered authoritati
 
 ## Playable Factions
 
-Ashayashians
-Azkuvalians
-Dyavians
-Eidraskians
-Kalavylians
-Korshek
-Syrenalians
-Voderai
+**Ashayashis:**
+Pacifistic tribals.
+
+**Azkuvalians:**
+Zealous fanatics.
+
+**Dyavis:**
+Plant oriented tribals.
+
+**Eidraskians:**
+Crystaline golems.
+
+**Kalavylis:**
+Nomadic psionic merchants.
+
+**Korshek:**
+Noble sisterhoods.
+
+**Syrenalians:**
+Ambitious psuedo-democratic nobility.
+
+**Voderai:**
+Anarchistic, pack oriented, prone to feral instincts.
 
 ## Additional Information
 TBD
