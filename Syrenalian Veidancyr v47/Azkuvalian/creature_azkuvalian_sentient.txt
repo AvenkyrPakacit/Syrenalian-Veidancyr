@@ -250,7 +250,7 @@ creature_azkuvalian_sentient
 			[TL_COLOR_MODIFIER:IRIS_EYE_IVORY:1]
 				[TLCM_NOUN:eyes:PLURAL]
 
-[CREATURE:AZKUVALIAN] tropicalgrassland sentient - add servent caste
+[CREATURE:AZKUVALIAN] tropicalgrassland sentient
 	[NAME:azkuvalian:azkuvalians:azkuvalian]
 	[GENERAL_BABY_NAME:hatchling:hatchlings]
 	[GENERAL_CHILD_NAME:child:children]

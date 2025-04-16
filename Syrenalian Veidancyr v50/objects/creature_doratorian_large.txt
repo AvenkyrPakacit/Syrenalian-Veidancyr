@@ -2,7 +2,7 @@ creature_doratorian_large 1x4
 5/5 anybroadleaftemperate large 480-
 5/5 anyforest large 600-
 5/5 anypool large 20-
-4/5 anytemperateforest large 720-
+3/5 anytemperateforest large 720-
 5/5 broadleaftemperate large 960-
 5/5 conifertemperate large 840-
 5/5 poolbrackishwatertemperate large 120-
@@ -37,7 +37,7 @@ creature_doratorian_large 1x4
 	[CLUSTER_NUMBER:3:7]
 	[NO_UNIT_TYPE_COLOR]
 	[CREATURE_TILE:65]
-	[MAXAGE:9000:9999]
+	[MAXAGE:4500:9999]
 	[GRASSTRAMPLE:0]
 	[STANCE_CLIMBER]
 	[LARGE_ROAMING]
@@ -567,7 +567,7 @@ creature_doratorian_large 1x4
 	[CLUSTER_NUMBER:1:2]
 	[NO_UNIT_TYPE_COLOR]
 	[CREATURE_TILE:76]
-	[MAXAGE:9000:9999]
+	[MAXAGE:4500:9999]
 	[GRASSTRAMPLE:0]
 	[LARGE_PREDATOR]
 	[LOOSE_CLUSTERS]

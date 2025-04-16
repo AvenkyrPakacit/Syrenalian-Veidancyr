@@ -1,164 +1,29 @@
 language_DORATORIAN
-avryialus:
-akfia(A), amik(A), ansi(A), arki(A)
-amia(A), fiol(A), ilios(A), mina(A), saki(A)
-kjei:
-akwu(K), ark(K), vod(K)
-daly(K)
-rinate:
-akz(r), ari(r), jakra, jav(r), rin(r)
-ate(r), ato(r), inex(r), kal(r), nat(r), sata(r), sato(r)
-vaskate:
-kaz(k), vas(v)
-ska(v), zva(k)
-voderai:
-alir(V), aka(V), aven(V) axir(V), dae(V), delas(V), pak(V), sui(V)
-acit(V), aos(V), ati(V), ica(V), ika(V), kyr(V), rika(V), straos(V)
-Professions:
-eikal, uwa, vesk
-askwe, erai, kati
--full prefix 1:
--ak x4
--al
--am
--an
--ar x3
--av
--ax
--da
--de
--ei
--Ja x2
--ka
--pa
--ri
--su
--uw
--va
--ve
--vo
--full infix 1-3:
--a x6
--ac
--am
--ask
--d
--da
--e
--eik
--en
--er
--fi
--fia
--i x3
--ice
--ik
--ili
--in
--ir x2
--isa
--k x3
--ka
--kal
--ki
--kra
--las
--mi
--n
--ri
--s x2
--sa x3
--se
--si
--sk
--stra
--we
--wu
--z x3
--full postfix 1:
--ai
--al x2
--ca
--fa
--ia
--it
--k
--ka x3
--li
--ly
--na
--ol
--os x3
--ti
--to
--va
--yr
--prefix 1-2:
--a x15
--d x2
--i
--j x2
--k x4
--l
--m
--n
--p
--r
--s
--ti
--v x2
--x
--infix 0-7:
--a x11
--c
--e x2
--f x2
--i x15
--k x6
--l x2
--m x2
--n x4
--r x4
--s x8
--t
--z x3
--postfix 1-2:
--a x10
--c
--i x4
--k x4
--m
--o x6
--r
--s x3
--t x7
--v
--x
--y
+
 [OBJECT:LANGUAGE]
 
 [TRANSLATION:DORATORIAN]
-	[T_WORD:ABBEY:placeholder]
-	[T_WORD:ACE:placeholder]
-	[T_WORD:ACT:placeholder]
+	[T_WORD:ABBEY:akad]
+	[T_WORD:ACE:acel]
+	[T_WORD:ACT:ackma]
 	[T_WORD:AFTER:pak]
-	[T_WORD:AGE:placeholder]
-	[T_WORD:AGELESS:placeholder]
-	[T_WORD:ALE:placeholder]
-	[T_WORD:ANCIENT:placeholder]
-	[T_WORD:ANGEL:placeholder]
-	[T_WORD:ANGER:placeholder]
-	[T_WORD:ANIMAL:placeholder]
-	[T_WORD:APE:placeholder]
-	[T_WORD:APPLE:placeholder]
-	[T_WORD:ARCH:placeholder]
-	[T_WORD:ARM:placeholder]
-	[T_WORD:ARMOR:placeholder]
-	[T_WORD:ARROW:placeholder]
-	[T_WORD:ARTIFICE:placeholder]
-	[T_WORD:ASH:placeholder]
-	[T_WORD:AUNT:placeholder]
-	[T_WORD:AURA:placeholder]
+	[T_WORD:AGE:eik]
+	[T_WORD:AGELESS:eikdei]
+	[T_WORD:ALE:atek]
+	[T_WORD:ANCIENT:aten]
+	[T_WORD:ANGEL:atene]
+	[T_WORD:ANGER:raksa]
+	[T_WORD:ANIMAL:kawa]
+	[T_WORD:APE:kawu]
+	[T_WORD:APPLE:kacu]
+	[T_WORD:ARCH:ark]
+	[T_WORD:ARM:eilk]
+	[T_WORD:ARMOR:prata]
+	[T_WORD:ARROW:preyto]
+	[T_WORD:ARTIFICE:preatao]
+	[T_WORD:ASH:ask]
+	[T_WORD:AUNT:miafa]
+	[T_WORD:AURA:aioa]
 	[T_WORD:AUTUMN:placeholder]
 	[T_WORD:AWE-INSPIRING:placeholder]
 	[T_WORD:AXE:placeholder]
@@ -803,7 +668,7 @@ askwe, erai, kati
 	[T_WORD:RAVAGER:placeholder]
 	[T_WORD:RAVEN:placeholder]
 	[T_WORD:RAW:placeholder]
-	[T_WORD:RAZOR:placeholder]
+	[T_WORD:RAZOR:thyl]
 	[T_WORD:RED:placeholder]
 	[T_WORD:REGAL:placeholder]
 	[T_WORD:REIGN:placeholder]
@@ -1064,7 +929,7 @@ askwe, erai, kati
 	[T_WORD:ULTIMATE:placeholder]
 	[T_WORD:ULTRA:placeholder]
 	[T_WORD:UNBRIDLED:placeholder]
-	[T_WORD:UNCLE:placeholder]
+	[T_WORD:UNCLE:miafa]
 	[T_WORD:UNGODLY:placeholder]
 	[T_WORD:UNHOLY:placeholder]
 	[T_WORD:UNKEMPT:placeholder]
@@ -1560,7 +1425,7 @@ askwe, erai, kati
 	[T_WORD:VICTIM:placeholder]
 	[T_WORD:STRANGER:placeholder]
 	[T_WORD:DRAB:placeholder]
-	[T_WORD:VISION:placeholder]
+	[T_WORD:VISION:kyl]
 	[T_WORD:VISIONARY:placeholder]
 	[T_WORD:ORACLE:placeholder]
 	[T_WORD:UTTER:placeholder]

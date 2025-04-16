@@ -1,13 +1,13 @@
 creature_doratorian_small 1x2
-5/5 anybroadleaftemperate small 240-
-5/5 anyforest small 300-
-5/5 anypool small 10-
-4/5 anytemperateforest small 360-
-5/5 broadleaftemperate small 480-
-5/5 conifertemperate small 420-
-5/5 poolbrackishwatertemperate small 60-
-5/5 poolfreshwatertemperate small 120-
-5/5 poolsaltwatertemperate small 180-
+5/5 anybroadleaftemperate small 240-265
+5/5 anyforest small 300-325
+5/5 anypool small 10-35
+4/5 anytemperateforest small 360-385
+5/5 broadleaftemperate small 480-505
+5/5 conifertemperate small 420-445
+5/5 poolbrackishwatertemperate small 60-85
+5/5 poolfreshwatertemperate small 120-145
+5/5 poolsaltwatertemperate small 180-205
 [OBJECT:CREATURE]
 
 [CREATURE:SV_ATF_SMALL1] anytemperateforest small
