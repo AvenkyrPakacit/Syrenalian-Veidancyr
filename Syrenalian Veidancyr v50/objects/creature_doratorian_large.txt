@@ -1,13 +1,13 @@
 creature_doratorian_large 1x4
-5/5 anybroadleaftemperate large 480-
-5/5 anyforest large 600-
-5/5 anypool large 20-
-3/5 anytemperateforest large 720-
-5/5 broadleaftemperate large 960-
-5/5 conifertemperate large 840-
-5/5 poolbrackishwatertemperate large 120-
-5/5 poolfreshwatertemperate large 240-
-5/5 poolsaltwatertemperate large 360-
+5/5 anybroadleaftemperate large 480-505
+5/5 anyforest large 600-625
+5/5 anypool large 20-45
+3/5 anytemperateforest large 720-745
+5/5 broadleaftemperate large 960-985
+5/5 conifertemperate large 840-865
+5/5 poolbrackishwatertemperate large 120-145
+5/5 poolfreshwatertemperate large 240-265
+5/5 poolsaltwatertemperate large 360-385
 [OBJECT:CREATURE]
 
 [CREATURE:SV_ATF_LARGE1] anytemperateforest large
@@ -573,7 +573,7 @@ creature_doratorian_large 1x4
 	[LOOSE_CLUSTERS]
 	[STANCE_CLIMBER]
 	[LARGE_ROAMING]
-	[PETVALUE:1000]
+	[PETVALUE:745]
 	[SWIMS_LEARNED]
 	[DIFFICULTY:5]
 	[MOUNT_EXOTIC]
