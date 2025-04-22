@@ -12,7 +12,6 @@ Doratorian temperatures:
 -archaic
 
 
-
 -hard
 
 [MATERIAL_TEMPLATE:DORATORIAN_BONE_HARD]
