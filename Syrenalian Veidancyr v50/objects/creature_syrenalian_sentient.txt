@@ -19,6 +19,8 @@ creature_syrenalian_sentient
 	[INTELLIGENT][ALL_ACTIVE][NOBREATHE][NO_FEVERS]
 	[CHILD:50][FANCIFUL][NO_DRINK][NONAUSEA][NOEXERT]
 	[BABY:1][BENIGN][EQUIPS][NOPAIN]
+	[SPEECH:kill_syrenalian.txt]
+	[SLAIN_SPEECH:SLAIN_SYRENAL]
 	[PROFESSION_NAME:MINER:council miner:council miners]
 	[PROFESSION_NAME:WOODWORKER:council wood worker:council wood workers]
 	[PROFESSION_NAME:CARPENTER:council carpenter:council carpenters]

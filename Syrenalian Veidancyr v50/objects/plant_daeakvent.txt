@@ -1,0 +1,11 @@
+plant_daeakvent
+-evil
+4/4-shrubs
+4/4-trees
+-good
+4/4-shrubs
+4/4-trees
+-savage
+4/4-shrubs
+4/4-trees
+[OBJECT:PLANT]

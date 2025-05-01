@@ -6,4 +6,4 @@ creature_archdaemon_beast
 1/1 difficulty24 -FREQUENCY:6
 1/1 difficulty25 -FREQUENCY:4
 1/1 difficulty26 -archdaemon -FREQUENCY:2
-OBJECT:CREATURE
+[OBJECT:CREATURE]

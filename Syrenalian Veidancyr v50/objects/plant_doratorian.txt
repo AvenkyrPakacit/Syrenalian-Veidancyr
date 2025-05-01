@@ -1,6 +1,6 @@
 plant_doratorian
 0/8 anybroadleaftemperate
-0/8 anyforest 1/4shrubs
+0/8 anyforest
 8/8 anytemperateforest 0/4shrubs, 0/4trees
 6/8 broadleaftemperate 1/4shrubs, 1/4trees
 6/8 conifertemperate 0/4shrubs, 2/4trees
@@ -47,8 +47,7 @@ plant_doratorian
 	[CLUSTERSIZE:5]
 	[PREFSTRING:stalks]
 	[WET][DRY]
-	[BIOME:SUBTERRANEAN_WATER]
-	[UNDERGROUND_DEPTH:1:3]
+	[BIOME:ANY_TEMPERATE_BROADLEAF]
 	[SHRUB_TILE:58]
 	[DEAD_SHRUB_TILE:58]
 	[SHRUB_COLOR:6:0:1]
