@@ -95,7 +95,7 @@ inorganic_doratorian_metal
 
 [INORGANIC:SV_DORATORIAN_DECORATIVE_METAL_3]
 	[USE_MATERIAL_TEMPLATE:METAL_TEMPLATE]
-	[STATE_NAME:SOLID:ikfiinia ore]
+	[STATE_NAME:SOLID:ikfiinia]
 	[STATE_NAME:SOLID_POWDER:ikfiinia dust]
 	[STATE_ADJ:ALL_SOLID:ikfiinia]
 	[STATE_NAME_ADJ:LIQUID:molten ikfiinia]

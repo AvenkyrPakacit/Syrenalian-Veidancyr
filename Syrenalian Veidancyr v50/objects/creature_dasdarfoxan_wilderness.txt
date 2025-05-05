@@ -12,6 +12,8 @@ creature_dasdarfoxan_wilderness
 5/5 subterraneanchasm2 wilderness SUBTERRANEAN_CHASM
 [OBJECT:CREATURE]
 
-dune goliath
+-desertsand DESERT_SAND
 
-Bearing a set of 10 eyes, the towering goliath stands to the awe of those around.
+siekii oirieriiasi:siekii oirieriiasis:oirieriiasian
+
+Bearing a set of ten eyes, the towering goliath stands to the awe of those around.

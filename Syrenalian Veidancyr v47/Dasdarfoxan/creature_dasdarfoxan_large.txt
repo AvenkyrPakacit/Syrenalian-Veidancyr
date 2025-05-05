@@ -12,6 +12,6 @@ creature_dasdarfoxan_large 4
 5/5 subterraneanchasm2 large
 [OBJECT:CREATURE]
 
-dune prowler
+siekiikoukiak:siekiikoukiaks:siekiikoukiak
 
 The clashing of teeth from the fleshy crevice below their void-like eyes beckon forth a fearful approach. A tail like saws spinning behind their bent back horns, forwarns their fiendish nature.

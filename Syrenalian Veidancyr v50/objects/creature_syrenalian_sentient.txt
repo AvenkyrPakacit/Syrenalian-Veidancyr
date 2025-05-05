@@ -2,7 +2,7 @@ creature_syrenalian_sentient
 0/1 grasslandtemperate
 [OBJECT:CREATURE]
 
-[CREATURE:SYRENAL] temperategrassland sentient
+[CREATURE:SV_GT_SENTIENT] temperategrassland sentient
 	[NAME:syrenal:syrenals:syrenalian]
 	[BODY:SV_BODY_E:SV_HEAD:SV_BRAIN:SV_HEARING_FEATHERS:SV_2EYES:SV_BILL:SV_TONGUE:SV_2ARMS:SV_2LEGS:SV_3TOES:SV_2ARM_FLOWERS:SV_3FINGERS:SV_HEART:SV_LIVER:SV_LUNGS:SV_STOMACH:SV_PANCREAS:SV_SPLEEN:SV_KIDNEYS:SV_GUTS:SV_BODYDETAIL_SKIN:SV_2ARMDETAIL_SKIN:SV_2LEGDETAIL_SKIN]
 	[GENERAL_CHILD_NAME:eixralkei:eixralkei]
@@ -19,8 +19,7 @@ creature_syrenalian_sentient
 	[INTELLIGENT][ALL_ACTIVE][NOBREATHE][NO_FEVERS]
 	[CHILD:50][FANCIFUL][NO_DRINK][NONAUSEA][NOEXERT]
 	[BABY:1][BENIGN][EQUIPS][NOPAIN]
-	[SPEECH:kill_syrenalian.txt]
-	[SLAIN_SPEECH:SLAIN_SYRENAL]
+	[SPEECH:text_syrenalian.txt]
 	[PROFESSION_NAME:MINER:council miner:council miners]
 	[PROFESSION_NAME:WOODWORKER:council wood worker:council wood workers]
 	[PROFESSION_NAME:CARPENTER:council carpenter:council carpenters]
