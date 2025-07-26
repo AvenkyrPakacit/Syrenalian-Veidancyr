@@ -11,8 +11,8 @@ creature_axidaemon_beast
 
 [CREATURE:SV_AXIDAEMON_BEAST_1] artifice assertive domestic flowery inspiration nature2 primitive
 	[ARENA_RESTRICTED]
-	[NAME:hsdemon1:hsdemon1s:hsdemon1]
-	[CASTE_NAME:hsdemon1:hsdemon1s:hsdemon1]
+	[NAME:aolkenylo:aolkenylos:aolkenylo]
+	[CASTE_NAME:aolkenylo:aolkenylos:aolkenylo]
 	[BODY:QUADRUPED_NECK_HOOF:TAIL:4EYES:2EARS:NOSE:2LUNGS:HEART:GUTS:ORGANS:THROAT:NECK:SPINE:BRAIN:SKULL:MOUTH:TONGUE:GENERIC_TEETH:RIBCAGE:2HEAD_HORN_NUMBERED:EYELIDS:CHEEKS]
 	[DESCRIPTION:A daemonic beast, with dense fur. Their divine presence is of a majestic beauty.]
 	[GENERAL_CHILD_NAME:hsdemon1 foal:hsdemon1 foals]
@@ -185,8 +185,8 @@ creature_axidaemon_beast
 
 [CREATURE:SV_AXIDAEMON_BEAST_2] assertive evil nature mystery2 primitive sky wild2
 	[ARENA_RESTRICTED]
-	[NAME:brdemon2:brdemon2s:brdemon2]
-	[CASTE_NAME:brdemon2:brdemon2s:brdemon2]
+	[NAME:zeiskmatyr:zeiskmatyrs:zeiskmatyr]
+	[CASTE_NAME:zeiskmatyr:zeiskmatyrs:zeiskmatyr]
 	[BODY:HUMANOID_ARMLESS_NECK:2WINGS:2EYES:2LUNGS:HEART:GUTS:ORGANS:GIZZARD:HUMANOID_JOINTS:THROAT:NECK:SPINE:BRAIN:SKULL:4TOES:BEAK:TONGUE:RIBCAGE]
 	[DESCRIPTION:A daemonic avian, with dense feathers. Their divine presence is a echoing call.]
 	[GENERAL_CHILD_NAME:brdemon2 hatchling:brdemon2 hatchlings]
@@ -395,8 +395,8 @@ creature_axidaemon_beast
 
 [CREATURE:SV_AXIDAEMON_BEAST_3] cave death evil3 mystery2 primitive wild
 	[ARENA_RESTRICTED]
-	[NAME:spdemon3:spdemon3s:spdemon3]
-	[CASTE_NAME:spdemon3:spdemon3s:spdemon3]
+	[NAME:zkratvozt:zkratvozts:zkratvozt]
+	[CASTE_NAME:zkratvozt:zkratvozts:zkratvozt]
 	[DESCRIPTION:A daemonic beast, with spite for all around. Their divine presence is shrouded in divine silk.]
 	[GENERAL_CHILD_NAME:spdemon3ling:spdemon3lings:]
 	[BODY:SPIDER:4EYES:HEART:GUTS:BRAIN:MOUTH:LARGE_MANDIBLES]
@@ -478,7 +478,7 @@ creature_axidaemon_beast
 		[SYNDROME]
 			[SYN_NAME:spdemon3 bite]
 			[SYN_AFFECTED_CLASS:GENERAL_POISON]
-			[SYN_IMMUNE_CREATURE:SPDEMON3:ALL]
+			[SYN_IMMUNE_CREATURE:SV_AXIDAEMON_BEAST_3:ALL]
 			[SYN_INJECTED]
 			[CE_NECROSIS:SEV:525:PROB:100:RESISTABLE:SIZE_DILUTES:LOCALIZED:VASCULAR_ONLY:START:120:PEAK:240:END:320]
 			[CE_NUMBNESS:SEV:450:PROB:100:RESISTABLE:SIZE_DILUTES:LOCALIZED:VASCULAR_ONLY:START:2:PEAK:120:END:320]

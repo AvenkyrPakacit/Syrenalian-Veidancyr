@@ -38,6 +38,7 @@ body_syrnl_main
 
 [BODYGLOSS:SV_PLATE:carapace:plate:carapaces:plates]
 [BODYGLOSS:SV_CHAIN:tail:chain:tail:chains]
+[BODYGLOSS:SV_SAW:stinger:saw:stingers:saws]
 [BODYGLOSS:SV_PAWFORE:hand:fore paw:hands:fore paws]
 [BODYGLOSS:SV_PAWHIND:foot:hind paw:feet:hind paws]
 
