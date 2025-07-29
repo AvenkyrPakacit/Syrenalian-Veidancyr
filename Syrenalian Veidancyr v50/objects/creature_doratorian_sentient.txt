@@ -1,5 +1,9 @@
 creature_doratorian_sentient
-
+-anybroadleaftemperate Difficulty 11]
+-anyforest Difficulty 12]
+-anytemperateforest Difficulty 13]
+-broadleaftemperate Difficulty 15]
+-conifertemperate Difficulty 14]
 [OBJECT:CREATURE]
 
 -anybroadleaftemperate

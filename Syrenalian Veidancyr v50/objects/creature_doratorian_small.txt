@@ -16,7 +16,7 @@ creature_doratorian_small 1x2
 	[NAME:vasvesk:vasvesks:vasvesk]
 	[CASTE_NAME:vasvesk:vasvesks:vasvesk]
 	[BODY:HUMANOID_NECK:BRAIN:2EYES:SV_BEAK_RIDGED1:TONGUE:SV_2WINGS:4TOES:TAIL:4FINGERS:FACIAL_FEATURES:HEART:ORGANS:GUTS:SKULL:SPINE:NECK:THROAT:HUMANOID_JOINTS:RIBCAGE]
-	[DESCRIPTION:Small psuedo-humanoid individuals with a destinct lack of perception, known for their wisdom & songs. They whilst generally cute: are capable of flinging quills to defend themselves. Also, Vasvesks are to their misfortune: easily hunted & often become prey for those desperate enough to prowl.]
+	[DESCRIPTION:Small psuedo-humanoid individuals with a destinct lack of perception, known for their wisdom & songs. They whilst generally cute, are capable of flinging quills to defend themselves. Also, Vasvesks are to their misfortune, easily hunted & often become prey for those desperate enough to prowl.]
 	[CHILD:1][GENERAL_CHILD_NAME:centuryling:centurylings]
 	[CREATURE_CLASS:PRONE_TO_FERAL_INSTINCT]
 	[CREATURE_TILE:'v'][COLOR:0:0:1]

@@ -1,16 +1,16 @@
 creature_doratorian_megabeast 1
 highest large + 5 x (megabeast = 6), (semimegabeast = 5)
-0/1 anybroadleaftemperate megabeast
-0/1 anybroadleaftemperate semimegabeast
-1/1 anyforest megabeast
-1/1 anyforest semimegabeast
-1/1 anytemperateforest megabeast
-1/1 anytemperateforest semimegabeast
-1/1 broadleaftemperate megabeast
-1/1 broadleaftemperate semimegabeast
-1/1 conifertemperate megabeast
-1/1 conifertemperate semimegabeast
-[OBJECT:CREATURE]
+0/1 anybroadleaftemperate megabeast Difficulty 13]
+0/1 anybroadleaftemperate semimegabeast Difficulty 12]
+1/1 anyforest megabeast Difficulty 14]
+1/1 anyforest semimegabeast Difficulty 13]
+1/1 anytemperateforest megabeast Difficulty 15]
+1/1 anytemperateforest semimegabeast Difficulty 14]
+1/1 broadleaftemperate megabeast Difficulty 17]
+1/1 broadleaftemperate semimegabeast Difficulty 16]
+1/1 conifertemperate megabeast Difficulty 16]
+1/1 conifertemperate semimegabeast Difficulty 15]
+[OBJECT:CREATURE]990 
 
 -anybroadleaftemperate
 
@@ -1045,11 +1045,3 @@ highest large + 5 x (megabeast = 6), (semimegabeast = 5)
 				[TLCM_TIMING:ROOT:100:0:1000:0]
 	[SELECT_MATERIAL:ALL]
 		[MULTIPLY_VALUE:10]
-
--anyforest
-
--anytemperateforest
-
--broadleaftemperate
-
--conifertemperate

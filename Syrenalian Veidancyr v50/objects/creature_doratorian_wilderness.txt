@@ -1,13 +1,13 @@
 creature_doratorian_wilderness
-2/5 anybroadleaftemperate wilderness ANY_TEMPERATE_BROADLEAF
-5/5 anyforest wilderness ANY_FOREST
-5/5 anypool wilderness ANY_POOL
-4/5 anytemperateforest wilderness ANY_TEMPERATE_FOREST
-5/5 broadleaftemperate wilderness FOREST_TEMPERATE_BROADLEAF
-5/5 conifertemperate wilderness FOREST_TEMPERATE_CONIFER
-5/5 poolbrackishwatertemperate wilderness POOL_TEMPERATE_BRACKISHWATER
-5/5 poolfreshwatertemperate wilderness POOL_TEMPERATE_FRESHWATER
-5/5 poolsaltwatertemperate wilderness POOL_TEMPERATE_SALTWATER
+2/5 anybroadleaftemperate wilderness ANY_TEMPERATE_BROADLEAF Difficulty 10]
+5/5 anyforest wilderness ANY_FOREST Difficulty 11]
+5/5 anypool wilderness ANY_POOL Difficulty 6]
+4/5 anytemperateforest wilderness ANY_TEMPERATE_FOREST Difficulty 12]
+5/5 broadleaftemperate wilderness FOREST_TEMPERATE_BROADLEAF Difficulty 14]
+5/5 conifertemperate wilderness FOREST_TEMPERATE_CONIFER Difficulty 13]
+5/5 poolbrackishwatertemperate wilderness POOL_TEMPERATE_BRACKISHWATER Difficulty 7]
+5/5 poolfreshwatertemperate wilderness POOL_TEMPERATE_FRESHWATER Difficulty 8]
+5/5 poolsaltwatertemperate wilderness POOL_TEMPERATE_SALTWATER Difficulty 9]
 [OBJECT:CREATURE]
 
 -anybroadleaftemperate
