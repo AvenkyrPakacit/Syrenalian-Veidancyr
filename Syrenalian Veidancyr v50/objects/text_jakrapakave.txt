@@ -1,0 +1,13 @@
+text_jakrapakave
+
+[OBJECT:TEXT_SET]
+
+[TEXT_SET:SLAIN_JAKRAPAKAVE]
+
+who sucked
+who suffered a heart attack after getting pissed
+whom I pesonally killed [PRO_POS] for [PRO_POS] own longevity
+whose anger blew [PRO_POS] top
+whose fury was let loose too soon
+who fell in glorious rage
+whose blind rage cost [PRO_POS] [PRO_POS] life

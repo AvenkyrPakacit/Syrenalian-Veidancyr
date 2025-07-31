@@ -1,0 +1,13 @@
+text_lianye
+
+[OBJECT:TEXT_SET]
+
+[TEXT_SET:SLAIN_LIANYE]
+
+who fell from the highest branch of a tree
+who sought to captivate Dorator's wildlife
+whom [PRO_POS] soul was consumed by death eternal
+whose life met their fate sealed
+whose vault was demolished by the hand of death's disdain
+whose life faltered as death approached them
+whose soul was devoured by the death of their sight

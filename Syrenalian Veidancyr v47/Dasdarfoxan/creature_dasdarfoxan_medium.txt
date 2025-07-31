@@ -12,6 +12,6 @@ creature_dasdarfoxan_medium 4
 5/5 subterraneanchasm2 medium
 [OBJECT:CREATURE]
 
-veilbreather rockjumper
+oiesaerokaki iairiksiiskik:oiesaerokaki iairiksiiskik:iairiksiiskik
 
 The sand-stained amphibian blends within the dusts, shrouding themself to maintain constant safety. For their scaly hide makes for common armour.

@@ -1,0 +1,19 @@
+creature_dasdarfoxan_megabeast 4
+highest large + 5 x (megabeast = 6), (semimegabeast = 5)
+1/1 anydesert megabeast
+1/1 anydesert semimegabeast
+1/1 anysavanna megabeast
+1/1 anysavanna semimegabeast
+1/1 desertbadlands megabeast
+1/1 desertbadlands semimegabeast
+1/1 desertrock megabeast
+1/1 desertrock semimegabeast
+1/1 desertsand megabeast
+1/1 desertsand semimegabeast
+1/1 savannatemperate megabeast
+1/1 savannatemperate semimegabeast
+1/1 savannatropical megabeast
+1/1 savannatropical semimegabeast
+[OBJECT:CREATURE]
+
+

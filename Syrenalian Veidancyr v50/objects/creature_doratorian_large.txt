@@ -1,24 +1,24 @@
 creature_doratorian_large 1x4
-5/5 anybroadleaftemperate large 480-505
-5/5 anyforest large 600-625
-5/5 anypool large 20-45
-3/5 anytemperateforest large 720-745
-5/5 broadleaftemperate large 960-985
-5/5 conifertemperate large 840-865
-5/5 poolbrackishwatertemperate large 120-145
-5/5 poolfreshwatertemperate large 240-265
-5/5 poolsaltwatertemperate large 360-385
+5/5 anybroadleaftemperate large 480-505 Difficulty 9]
+5/5 anyforest large 600-625 Difficulty 10]
+5/5 anypool large 20-45 Difficulty 5]
+3/5 anytemperateforest large 720-745 Difficulty 11]
+5/5 broadleaftemperate large 960-985 Difficulty 13]
+5/5 conifertemperate large 840-865 Difficulty 12]
+5/5 poolbrackishwatertemperate large 120-145 Difficulty 6]
+5/5 poolfreshwatertemperate large 240-265 Difficulty 7]
+5/5 poolsaltwatertemperate large 360-385 Difficulty 8]
 [OBJECT:CREATURE]
 
--anybroadleaftemperate
+anybroadleaftemperate
 
--anyforest
+anyforest
 
--anypool
+anypool
 
--anytemperateforest
+anytemperateforest
 
-[CREATURE:SV_ATF_LARGE1]
+[CREATURE:SV_ATF_LARGE1] anytemperateforest large
 	[NAME:arkiati:arkiatis:arkiatian]
 	[BODY:SV_BIPED_STANCE:BRAIN:2EYES:SV_BEAK_RIDGED1:TONGUE:4TOES:TAIL:4FINGERS:FACIAL_FEATURES:HEART:ORGANS:GUTS:SKULL:SPINE:NECK:THROAT:HUMANOID_JOINTS:RIBCAGE:SV_FACIALDETAIL_FEATHERS:SV_BODYDETAIL_FEATHERS:SV_2ARMDETAIL_FEATHERS:SV_2LEGDETAIL_FEATHERS]
 	[DESCRIPTION:A large, gentle avian with a ridged beak. They were nearly extinct with the destruction of the planet, Dorator.]
@@ -538,7 +538,7 @@ creature_doratorian_large 1x4
 
 [CREATURE:SV_ATF_LARGE2] anytemperateforest large
 	[NAME:leiskwing:leiskwings:leiskwing]
-	[DESCRIPTION:A large avian-like wyvern, with a sharp eye and echoing vocals. They have a fond appetite for unwary prey, and were nearly extinct with the destruction of the planet, Dorator.]
+	[DESCRIPTION:A large avian-like wyvern, with a sharp eye and echoing vocals. They are often seen as Dorator's apex predators.]
 	[BODY:HUMANOID_NECK:SV_ARM_WINGS:2EYES:2LUNGS:HEART:GUTS:ORGANS:GIZZARD:HUMANOID_JOINTS:NECK:THROAT:SPINE:BRAIN:SKULL:2FINGERS:2TOES:BEAK:TONGUE:FACIAL_FEATURES:RIBCAGE:SV_ARM_WINGDETAIL_FEATHERS]
 	[SOUND:PEACEFUL_INTERMITTENT:25:120:VOCALIZATION:chatter:chatters:chattering]
 	[SOUND:PEACEFUL_INTERMITTENT:5:60:VOCALIZATION:whistle:whistles:whistling]
@@ -554,7 +554,7 @@ creature_doratorian_large 1x4
 	[SYNDROME_DILUTION_FACTOR:AFFECTION:450]
 	[SYNDROME_DILUTION_FACTOR:SPIRIT:225]
 	[SYNDROME_DILUTION_FACTOR:PAIN:375]
-	[CREATURE_CLASS:SHRIEKER_STANDARD]
+	[CREATURE_CLASS:SHRIEKER_MEDIUM]
 	[CREATURE_CLASS:SYRENALIAN_EXOTIC]
 	[BIOME:ANY_TEMPERATE_FOREST]
 	[CREATURE_CLASS:DORATORIAN]
@@ -583,7 +583,7 @@ creature_doratorian_large 1x4
 	[LARGE_ROAMING]
 	[PETVALUE:745]
 	[SWIMS_LEARNED]
-	[DIFFICULTY:5]
+	[DIFFICULTY:11]
 	[MOUNT_EXOTIC]
 	[COLOR:3:0:1]
 	[FREQUENCY:2]
@@ -947,14 +947,4 @@ creature_doratorian_large 1x4
 				[TLCM_NOUN:feet:PLURAL]
 				[TLCM_TIMING:ROOT:100:0:1000:0]
 	[SELECT_MATERIAL:ALL]
-		[MULTIPLY_VALUE:5]
-
--broadleaftemperate
-
--conifertemperate
-
--poolbrackishwatertemperate
-
--poolfreshwatertemperate
-
--poolsaltwatertemperate
+		[MULTIPLY_VALUE:11]

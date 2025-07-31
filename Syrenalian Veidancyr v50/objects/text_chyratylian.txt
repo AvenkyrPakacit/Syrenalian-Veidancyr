@@ -1,0 +1,13 @@
+text_chyratylian
+
+[OBJECT:TEXT_SET]
+
+[TEXT_SET:SLAIN_CHYRATYL]
+
+who died as all avennats should
+who forfeited [PRO_POS] soul to Alia'fako
+whom torn the thread of [PRO_POS] life
+whose dream collapse 
+whose waking dream died out along with [PRO_POS] soul
+whose dream as a avennat forfeited [PRO_POS] life
+whose song was cut short

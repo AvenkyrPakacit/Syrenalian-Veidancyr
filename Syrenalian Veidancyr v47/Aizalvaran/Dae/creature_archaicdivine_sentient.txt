@@ -40,6 +40,8 @@ OBJECT:CREATURE
 	[DESCRIPTION:A divine caller originating from the moon, Aizalvara of the planet, Dorator.]
 	[GENERAL_CHILD_NAME:ekluat akuit daeazkal:ekluat akuit daeazkal]
 	[GENERAL_BABY_NAME:ivrash akuit daeazkal:ivrash akuit daeazkali]
+	[MATERIAL_FORCE_MULTIPLIER:INORGANIC:SV_DORATORIAN_DIVINE_METAL:2:1]
+	[GENERAL_MATERIAL_FORCE_MULTIPLIER:1:2]
 	[SYNDROME_DILUTION_FACTOR:DORATORIAN_CUISINE:675]
 	[CASTE_NAME:daeazkal:daeazkali:divine caller]
 	[SYNDROME_DILUTION_FACTOR:MEAT_TOLERANCE:1000]

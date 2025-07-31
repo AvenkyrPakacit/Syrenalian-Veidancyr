@@ -1,13 +1,13 @@
 creature_doratorian_medium 1x3
-5/5 anybroadleaftemperate medium 360-385
-4/5 anyforest medium 450-475
-5/5 anypool medium 15-40
-5/5 anytemperateforest medium 540-565
-5/5 broadleaftemperate medium 720-745
-5/5 conifertemperate medium 630-655
-5/5 poolbrackishwatertemperate medium 90-115
-5/5 poolfreshwatertemperate medium 180-205
-5/5 poolsaltwatertemperate medium 270-295
+5/5 anybroadleaftemperate medium 360-385 Difficulty 7]
+4/5 anyforest medium 450-475 Difficulty 8]
+5/5 anypool medium 15-40 Difficulty 3]
+5/5 anytemperateforest medium 540-565 Difficulty 9]
+5/5 broadleaftemperate medium 720-745 Difficulty 11]
+5/5 conifertemperate medium 630-655 Difficulty 10]
+5/5 poolbrackishwatertemperate medium 90-115 Difficulty 4]
+5/5 poolfreshwatertemperate medium 180-205 Difficulty 5]
+5/5 poolsaltwatertemperate medium 270-295 Difficulty 6]
 [OBJECT:CREATURE]
 
 -anybroadleaftemperate

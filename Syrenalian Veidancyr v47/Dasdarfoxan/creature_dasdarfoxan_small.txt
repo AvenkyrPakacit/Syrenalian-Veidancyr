@@ -12,10 +12,10 @@ creature_dasdarfoxan_small 4
 5/5 subterraneanchasm2 small 1965-1990
 [OBJECT:CREATURE]
 
-duneflyer
+siekiioakio
 
 Often witnessed soaring above the Ralkinian sands, their feathers glisten with guilded light.
 
-sandhopper
+iieroieiaik
 
 Scavengers of the sands, the Ralkinian rabbit cautiously avoids being seen.

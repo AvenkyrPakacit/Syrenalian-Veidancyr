@@ -7,4 +7,4 @@ creature_axidaemon_wilderness
 1/1 difficulty6 -FREQUENCY:42
 1/1 difficulty7 -FREQUENCY:40
 1/1 difficulty8 -axidaemon -FREQUENCY:38
-OBJECT:CREATURE
+[OBJECT:CREATURE]
