@@ -10,7 +10,9 @@ creature_doratorian_domestic
 5/5 poolsaltwatertemperate domestic 90-115 Difficulty 3]
 [OBJECT:CREATURE]
 
-[CREATURE:SV_DOMESTIC_DOR1] -PETVALUE:120 -vermin
+anybroadleaftemperate
+
+[CREATURE:SV_DOMESTIC_ABT_DOR1] -PETVALUE:120 -vermin
 	[NAME:chaqua:chaquas:chaqua]
 	[BODY:SV_BODY_E:SV_HEAD:SV_BRAIN:SV_3EYES_CENTER:SV_BEAK:SV_TONGUE:SV_2WINGS:SV_2LEGS:SV_2TOES:SV_HEART:SV_LIVER:SV_LUNGS:SV_STOMACH:SV_PANCREAS:SV_SPLEEN:SV_KIDNEYS:SV_GUTS]
 	[DESCRIPTION:A tiny flightless bird originating from Dorator.]
@@ -184,7 +186,7 @@ creature_doratorian_domestic
 			[TL_COLOR_MODIFIER:IRIS_EYE_IVORY:1]
 				[TLCM_NOUN:eyes:PLURAL]
 
-[CREATURE:SV_DOMESTIC_DOR2] -PETVALUE:125
+[CREATURE:SV_DOMESTIC_ABT_DOR2] -PETVALUE:125
 	[NAME:uweikyr:uweikyri:uweikyr]
 	[BODY:SV_BODY_E:SV_HEAD:SV_BRAIN:SV_3EYES_CENTER:SV_BEAK:SV_TONGUE:SV_2WINGS:SV_2LEGS:SV_2TOES:SV_HEART:SV_LIVER:SV_LUNGS:SV_STOMACH:SV_PANCREAS:SV_SPLEEN:SV_KIDNEYS:SV_GUTS]
 	[DESCRIPTION:A small flightless bird originating from Dorator.]
@@ -358,7 +360,7 @@ creature_doratorian_domestic
 			[TL_COLOR_MODIFIER:IRIS_EYE_IVORY:1]
 				[TLCM_NOUN:eyes:PLURAL]
 
-[CREATURE:SV_DOMESTIC_DOR3] -PETVALUE:130 -yarn
+[CREATURE:SV_DOMESTIC_ABT_DOR3] -PETVALUE:130 -yarn
 	[NAME:akfuph:akfuphs:akfuph]
 	[BODY:SV_BODY_E:SV_HEAD:SV_BRAIN:SV_3EYES_CENTER:SV_BEAK:SV_TONGUE:SV_2LEGS_FRONT:SV_2LEGS_BACK:SV_4TOES:SV_HEART:SV_LIVER:SV_LUNGS:SV_STOMACH:SV_PANCREAS:SV_SPLEEN:SV_KIDNEYS:SV_GUTS]
 	[DESCRIPTION:A large avian originating from Dorator, with dense layers of fluff.]
@@ -544,7 +546,7 @@ creature_doratorian_domestic
 			[TL_COLOR_MODIFIER:IRIS_EYE_IVORY:1]
 				[TLCM_NOUN:eyes:PLURAL]
 
-[CREATURE:SV_DOMESTIC_DOR4] -PETVALUE:135 -pack, wagon, mount
+[CREATURE:SV_DOMESTIC_ABT_DOR4] -PETVALUE:135 -pack, wagon, mount
 	[NAME:akafwi:akafwis:akafwi]
 	[BODY:SV_BODY_E:SV_HEAD:SV_BRAIN:SV_3EYES_CENTER:SV_BEAK:SV_TONGUE:SV_2LEGS_FRONT:SV_2LEGS_BACK:SV_4TOES:SV_HEART:SV_LIVER:SV_LUNGS:SV_STOMACH:SV_PANCREAS:SV_SPLEEN:SV_KIDNEYS:SV_GUTS]
 	[DESCRIPTION:A large avian originating from Dorator.]
@@ -718,7 +720,7 @@ creature_doratorian_domestic
 			[TL_COLOR_MODIFIER:IRIS_EYE_IVORY:1]
 				[TLCM_NOUN:eyes:PLURAL]
 
-[CREATURE:SV_DOMESTIC_DOR5] -trainable 145
+[CREATURE:SV_DOMESTIC_ABT_DOR5] -trainable 145
 	[NAME:kawato:kawatos:kawato]
 	[BODY:SV_BODY_E:SV_HEAD:SV_BRAIN:SV_3EYES_CENTER:SV_BEAK:SV_TONGUE:SV_2LEGS_FRONT:SV_2LEGS_BACK:SV_4TOES:SV_HEART:SV_LIVER:SV_LUNGS:SV_STOMACH:SV_PANCREAS:SV_SPLEEN:SV_KIDNEYS:SV_GUTS]
 	[DESCRIPTION:A large avian originating from Dorator.]
@@ -894,3 +896,44 @@ creature_doratorian_domestic
 		[SET_TL_GROUP:BY_CATEGORY:EYE:EYE]
 			[TL_COLOR_MODIFIER:IRIS_EYE_IVORY:1]
 				[TLCM_NOUN:eyes:PLURAL]
+
+anyforest
+
+anypool tier 0
+
+CREATURE:SV_DOMESTIC_AP_DOR2]
+Antemilium
+-Born from the primordial soup of Dorator, the Antemilium rejoice in their arrival to land.
+--Attacks: Kick & Tail Strike
+
+anytemperateforest
+
+broadleaftemperate
+
+conifertemperate tier 7
+
+CREATURE:SV_DOMESTIC_CT_DOR2] - eggs
+Iktamrius
+-Nestled atop sprawling nests, the Iktamrius calls & beckons to the sight of curiousity.
+--Attacks: Bite, Snap, Kick
+
+CREATURE:SV_DOMESTIC_CT_DOR3] - yarn
+Akme'dowo
+-The Akme'dowo are fairly reasonable in size, often usable as mounts. They are however easy to frighten, and will in most cases flee from battle. The end of their tails are often used as decoration for clothing.
+--Attacks: Bite, Claw, Kick
+
+CREATURE:SV_DOMESTIC_CT_DOR4] - pack & trade
+Renileum
+-Gentle & Cautious, the Renileums are large herd avians, often domesticated by Akeresan tribes.
+--Attacks: Bite, Claw, Tail Strike
+
+CREATURE:SV_DOMESTIC_CT_DOR5] - Trainable
+Jhar'matyl
+-Jhar'matyl, the enbolden glory of Dorator. Primitive therapods with little bite, but subtle claws for defence. They are highly social; straying from most forms of conflict.
+--Attacks: Bite, Claw, Kick
+
+poolbrackishwatertemperate
+
+poolfreshwatertemperate
+
+poolsaltwatertemperate

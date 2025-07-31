@@ -1,5 +1,5 @@
 creature_doratorian_small 1x2
-5/5 anybroadleaftemperate small 240-265 Difficulty 6]
+4/5 anybroadleaftemperate small 240-265 Difficulty 6]
 5/5 anyforest small 300-325 Difficulty 7]
 3/5 anypool small 10-35 Difficulty 2]
 4/5 anytemperateforest small 360-385 Difficulty 8]
@@ -32,8 +32,7 @@ creature_doratorian_small 1x2
 	[CREATURE_CLASS:BROADLEAF][NO_VEGETATION_PERTURB]
 	[CREATURE_CLASS:AVIAN][NO_UNIT_TYPE_COLOR]
 	[POPULATION_NUMBER:10:20]
-	[BIOME:DESERT_BADLAND]
-	[BIOME:ANY_SHRUBLAND]
+	[BIOME:ANY_TEMPERATE_BROADLEAF]
 	[PREFSTRING:quills]
 	[BODY_DETAIL_PLAN:STANDARD_MATERIALS]
 		[USE_MATERIAL_TEMPLATE:FEATHER:DORATORIAN_FEATHER_LIGHT]
@@ -168,6 +167,7 @@ creature_doratorian_small 1x2
 	[SWIMS_INNATE]
 	[CASTE:FEMALE]
 		[FEMALE]
+		[CASTE_COLOR:5:0:1]
 		[BODY_SIZE:0:0:3600]
 		[BODY_SIZE:6:168:7200]
 		[BODY_SIZE:100:0:10800]
@@ -180,6 +180,7 @@ creature_doratorian_small 1x2
 				[TLCM_TIMING:ROOT:100:0:1000:0]
 	[CASTE:MALE]
 		[MALE]
+		[CASTE_COLOR:0:0:1]
 		[BODY_SIZE:0:0:2700]
 		[BODY_SIZE:6:168:6300]
 		[BODY_SIZE:100:0:9900]
@@ -276,6 +277,17 @@ creature_doratorian_small 1x2
 -anyforest
 
 -anypool
+
+CREATURE:SV_AP_SMALL2]
+Rasko'val
+-Small with a tendancy to bite, these little eight eyed beings carry a light poison sack, & a horn to charge potential prey.
+--Bite, Kick, Spit Poison, & Tail Strike.
+
+
+CREATURE:SV_AP_SMALL3]
+Savrylios
+-Born from the primordial soup of Dorator, the savrylios walk a path of pleasantries sown through the wet layers that shield them from heat & cold.
+--Attacks: Bite (Sucks blood), Kick, & Tail Strike
 
 [CREATURE:SV_AP_SMALL4]
 	[DESCRIPTION:A small amphibious fish thought to have evolved from microscopic cells. They retained their primordial cilia and flagella to swim about within pools.]
@@ -423,8 +435,6 @@ creature_doratorian_small 1x2
 	[SELECT_CASTE:ALL]
 		[ORIENTATION:FEMALE:25:50:75]
 		[ORIENTATION:MALE:25:50:75]
-	[SELECT_MATERIAL:ALL]
-		[MULTIPLY_VALUE:4]
 
 -anytemperateforest
 
