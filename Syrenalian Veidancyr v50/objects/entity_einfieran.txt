@@ -1,3 +1,0 @@
-entity_einfieran
-1/1 anytropical entity
-[OBJECT:ENTITY]

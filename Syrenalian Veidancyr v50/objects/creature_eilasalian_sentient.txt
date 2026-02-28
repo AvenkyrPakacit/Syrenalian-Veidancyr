@@ -1,5 +1,0 @@
-creature_eilasalian_sentient
-1/1 subterraneanwater1 sentient
-[OBJECT:CREATURE]
-
-
