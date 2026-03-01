@@ -1,9 +1,10 @@
 creature_doratorian_sentient
--anybroadleaftemperate Difficulty 11]
--anyforest Difficulty 12]
--anytemperateforest Difficulty 13]
--broadleaftemperate Difficulty 15]
--conifertemperate Difficulty 14]
+2/3-anybroadleaftemperate Difficulty 11
+2/3-anyforest Difficulty 12
+2/3-anytemperateforest Difficulty 13
+2/3-broadleaftemperate Difficulty 15
+3/4-conifertemperate Difficulty 14
+Total:16
 [OBJECT:CREATURE]
 
 -anybroadleaftemperate
@@ -15,7 +16,7 @@ creature_doratorian_sentient
 	[CASTE_NAME:ante'lianye:ante'lianyes:lianye]
 	[SPEECH:text_lianye.txt][MAXAGE:4500:9999][VIEWRANGE:10]
 	[COLOR:6:0:0][DIURNAL][FANCIFUL][VISION_ARC:10:20]
-	[CREATURE_TILE:108][FANCIFUL][PREFSTRING:will][BENIGN]
+	[CREATURE_TILE:108][PREFSTRING:will][BENIGN]
 	[CREATURE_CLASS:TEMPERATE][CREATURE_CLASS:CARNIVORE]
 	[INTELLIGENT][CREATURE_CLASS:BROADLEAF]
 	[PROFESSION_NAME:MINER:tribe miner:tribe miners]
@@ -211,7 +212,7 @@ creature_doratorian_sentient
 	[CASTE_NAME:jakrapakav:jakrapakavs:jakrapakave]
 	[MAXAGE:4500:9999][SPEECH:text_jakrapakave.txt]
 	[COLOR:0:0:1][DIURNAL][FANCIFUL][CREATURE_CLASS:CARNIVORE]
-	[CREATURE_TILE:67][FANCIFUL][PREFSTRING:will][BENIGN]
+	[CREATURE_TILE:67][PREFSTRING:will][BENIGN]
 	[CREATURE_CLASS:TEMPERATE][CREATURE_CLASS:TROPICAL]
 	[BODYGLOSS:SV_PAWFORE][BODYGLOSS:SV_PAWHIND][INTELLIGENT]
 	[PROFESSION_NAME:MINER:clan miner:clan miners]
@@ -1684,7 +1685,7 @@ creature_doratorian_sentient
 	[NAME:chyratyl:chyratyls:chyratylian]
 	[SPEECH:text_chyratylian.txt][MAXAGE:4500:9999]
 	[COLOR:2:0:1][NOCTURNAL][FANCIFUL]
-	[CREATURE_TILE:99][FANCIFUL][PREFSTRING:will][BENIGN]
+	[CREATURE_TILE:99][PREFSTRING:will][BENIGN]
 	[CREATURE_CLASS:TEMPERATE][CREATURE_CLASS:OMNIVORE]
 	[INTELLIGENT][CREATURE_CLASS:CONIFER]
 	[PROFESSION_NAME:MINER:cult miner:cult miners]
@@ -1913,7 +1914,7 @@ creature_doratorian_sentient
 	[CASTE_NAME:akerasan:akerasans:akerasan]
 	[SPEECH:text_chyratylian.txt][MAXAGE:4500:9999]
 	[COLOR:2:0:1][DIURNAL][FANCIFUL]
-	[CREATURE_TILE:97][FANCIFUL][PREFSTRING:will][BENIGN]
+	[CREATURE_TILE:97][PREFSTRING:will][BENIGN]
 	[CREATURE_CLASS:TEMPERATE][CREATURE_CLASS:OMNIVORE]
 	[INTELLIGENT][CREATURE_CLASS:CONIFER]
 	[PROFESSION_NAME:MINER:tribe miner:tribe miners]

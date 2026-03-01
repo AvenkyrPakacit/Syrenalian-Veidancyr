@@ -1,13 +1,15 @@
 creature_doratorian_domestic
-0/5 anybroadleaftemperate domestic 120-145 Difficulty 4]
-5/5 anyforest domestic 150-175 Difficulty 5]
-5/5 anypool domestic 5-25 Difficulty 0]
-5/5 anytemperateforest domestic 180-205 Difficulty 6]
-5/5 broadleaftemperate domestic 240-265 Difficulty 8]
-5/5 conifertemperate domestic 210-235 Difficulty 7]
-5/5 poolbrackishwatertemperate domestic 30-55 Difficulty 1]
-5/5 poolfreshwatertemperate domestic 60-85 Difficulty 2]
-5/5 poolsaltwatertemperate domestic 90-115 Difficulty 3]
+0/5 anybroadleaftemperate
+5/5 anyforest domestic
+5/5 anylake domestic
+5/5 anylaketemperate
+5/5 lakebrackishwatertemperate
+5/5 lakefreshwatertemperate
+5/5 lakesaltwatertemperate
+5/5 anytemperateforest
+5/5 broadleaftemperate
+5/5 conifertemperate
+Total:125
 [OBJECT:CREATURE]
 
 anybroadleaftemperate
@@ -899,9 +901,9 @@ anybroadleaftemperate
 
 anyforest
 
-anypool tier 0
+anylake tier 0
 
-CREATURE:SV_DOMESTIC_AP_DOR2]
+CREATURE:SV_DOMESTIC_AP_DOR2
 Antemilium
 -Born from the primordial soup of Dorator, the Antemilium rejoice in their arrival to land.
 --Attacks: Kick & Tail Strike
@@ -912,28 +914,32 @@ broadleaftemperate
 
 conifertemperate tier 7
 
-CREATURE:SV_DOMESTIC_CT_DOR2] - eggs
+CREATURE:SV_DOMESTIC_CT_DOR2 - eggs
 Iktamrius
 -Nestled atop sprawling nests, the Iktamrius calls & beckons to the sight of curiousity.
 --Attacks: Bite, Snap, Kick
 
-CREATURE:SV_DOMESTIC_CT_DOR3] - yarn
+CREATURE:SV_DOMESTIC_CT_DOR3 - yarn
 Akme'dowo
 -The Akme'dowo are fairly reasonable in size, often usable as mounts. They are however easy to frighten, and will in most cases flee from battle. The end of their tails are often used as decoration for clothing.
 --Attacks: Bite, Claw, Kick
 
-CREATURE:SV_DOMESTIC_CT_DOR4] - pack & trade
+CREATURE:SV_DOMESTIC_CT_DOR4 - pack & trade
 Renileum
 -Gentle & Cautious, the Renileums are large herd avians, often domesticated by Akeresan tribes.
 --Attacks: Bite, Claw, Tail Strike
 
-CREATURE:SV_DOMESTIC_CT_DOR5] - Trainable
+CREATURE:SV_DOMESTIC_CT_DOR5 - Trainable
 Jhar'matyl
 -Jhar'matyl, the enbolden glory of Dorator. Primitive therapods with little bite, but subtle claws for defence. They are highly social; straying from most forms of conflict.
 --Attacks: Bite, Claw, Kick
 
-poolbrackishwatertemperate
+anylake
 
-poolfreshwatertemperate
+anylaketemperate
 
-poolsaltwatertemperate
+lakebrackishwatertemperate
+
+lakefreshwatertemperate
+
+lakesaltwatertemperate
