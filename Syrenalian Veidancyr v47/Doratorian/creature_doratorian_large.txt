@@ -1,14 +1,14 @@
 creature_doratorian_large 1x4
-5/5 anybroadleaftemperate
-5/5 anyforest domestic
-5/5 anylake domestic
-5/5 anylaketemperate
-5/5 lakebrackishwatertemperate
-5/5 lakefreshwatertemperate
-5/5 lakesaltwatertemperate
-5/5 anytemperateforest
-5/5 broadleaftemperate
-5/5 conifertemperate
+15/15 anybroadleaftemperate
+10/15 anyforest
+15/15 anylake
+15/15 anylaketemperate
+10/10 lakebrackishwatertemperate
+10/10 lakefreshwatertemperate
+10/10 lakesaltwatertemperate
+8/10 anytemperateforest
+10/10 broadleaftemperate
+10/10 conifertemperate
 Total:125
 [OBJECT:CREATURE]
 
@@ -16,7 +16,7 @@ anybroadleaftemperate
 
 anyforest
 
-anypool
+anylake
 
 anytemperateforest
 

@@ -9,7 +9,7 @@ Total:16
 
 -anybroadleaftemperate
 
-[CREATURE:SV_ABT_SENTIENT]
+[CREATURE:SV_ABT_SENTIENT_1]
 	[DESCRIPTION:An average sized individual with poison glands in place of their eyes. They are known for their sacred vaults, and ecological efforts.]
 	[BODY:HUMANOID_NECK:HEART:GUTS:NECK:BRAIN:SV_POISONGLANDS_EYES:SV_ANTTENAE_BIOLOGICAL:2HEAD_HORN:NOSE:2EARS:THROAT:MOUTH:3FINGERS:3TOES]
 	[NAME:ante'lianye:ante'lianyes:lianye]
@@ -205,7 +205,7 @@ Total:16
 
 -anyforest
 
-[CREATURE:SV_AF_SENTIENT]
+[CREATURE:SV_AF_SENTIENT_1]
 	[DESCRIPTION:An average sized individual with a quilled back. They are known for their brash attitude, and furiosity!]
 	[BODY:SV_BIPED_STANCE:HEART:GUTS:NECK:BRAIN:2EYES:THROAT:SV_4MANDIBLES:5FINGERS:2TOES:SV_SPIKE_LAYOUT_8:SV_SPIKE_BASE_THICK:SV_SPIKE_3]
 	[NAME:jakrapakav:jakrapakavs:jakrapakave]
@@ -516,7 +516,7 @@ Total:16
 
 -anytemperateforest
 
-[CREATURE:SV_ATF_SENTIENT] anytemperateforest sentient
+[CREATURE:SV_ATF_SENTIENT_1] anytemperateforest sentient
 	[NAME:voderai:voderai:voderai]
 	[SYNDROME_DILUTION_FACTOR:DORATORIAN_CUISINE:75]
 	[GENERAL_CHILD_NAME:centuryling:centurylings]
@@ -1680,7 +1680,7 @@ Total:16
 
 -broadleaftemperate
 
-[CREATURE:SV_BT_SENTIENT]
+[CREATURE:SV_BT_SENTIENT_1]
 	[BODY:HUMANOID_NECK:HEART:GUTS:NECK:BRAIN:SV_BEAK_RIDGED1:2EYES:THROAT:MOUTH:3FINGERS:3TOES]
 	[NAME:chyratyl:chyratyls:chyratylian]
 	[SPEECH:text_chyratylian.txt][MAXAGE:4500:9999]
@@ -1907,7 +1907,7 @@ Total:16
 
 -conifertemperate
 
-[CREATURE:SV_CT_SENTIENT]
+[CREATURE:SV_CT_SENTIENT_1]
 	[DESCRIPTION:An average sized individual..]
 	[BODY:HUMANOID_NECK:HEART:GUTS:NECK:BRAIN:SV_4MANDIBLES:2EYES:THROAT:MOUTH:3FINGERS:3TOES]
 	[NAME:akerasan:akerasans:akerasan]

@@ -1,18 +1,18 @@
 creature_doratorian_vermin 1x1
-5/5 anybroadleaftemperate
-4/5 anyforest vermin
-0/5 anypool vermin
-5/5 anylake
-5/5 anylaketemperate
-5/5 lakebrackishwatertemperate
-5/5 lakefreshwatertemperate
-5/5 lakesaltwatertemperate
-5/5 anytemperateforest
-5/5 broadleaftemperate
-5/5 conifertemperate
-5/5 poolbrackishwatertemperate
-5/5 poolfreshwatertemperate
-5/5 poolsaltwatertemperate
+15/15 anybroadleaftemperate
+14/15 anyforest vermin
+5/10 anypool vermin
+10/10 anylake
+10/10 anylaketemperate
+10/10 lakebrackishwatertemperate
+10/10 lakefreshwatertemperate
+10/10 lakesaltwatertemperate
+10/10 anytemperateforest
+10/10 broadleaftemperate
+10/10 conifertemperate
+10/10 poolbrackishwatertemperate
+10/10 poolfreshwatertemperate
+10/10 poolsaltwatertemperate
 Total:150
 [OBJECT:CREATURE]
 
@@ -24,6 +24,7 @@ Total:150
 	[BODY:QUADRUPED_NECK:HEART:GUTS:NECK:BRAIN:2EYES:THROAT:MOUTH:SV_SPIKE_LAYOUT_8:SV_SPIKE_BASE_THICK:SV_SPIKE_3]
 	[NAME:akvara:akvaras:akvarate]
 	[CASTE_NAME:akvara:akvaras:akvarate]
+	[DESCRIPTION:A small forest dwelling vermin with a body full of quills. They can be found in Dorator's forests, and will often ball up and fling their quills in defense.]
 	[CREATURE_CLASS:DORATORIAN][CREATURE_CLASS:SYRENALIAN_VERMIN]
 	[MAXAGE:4500:9999][VERMIN_HATEABLE][PET_EXOTIC][VERMIN_GROUNDER]
 	[VERMIN_EATER][PENETRATEPOWER:25][NATURAL]
@@ -255,7 +256,7 @@ Total:150
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:SV_AP_VERMIN4]
-	[DESCRIPTION:A fish with a noticable sexual dimorphic form ranging from the large carapaced females to the small unarmoured males. They are filter feeders and tend to nestle togather in companies of duos or quads.]
+	[DESCRIPTION:A fish with a noticable sexual dimorphic form ranging from the large carapaced females to the small unarmoured males. They are filter feeders and tend to nestle together in companies of duos or quads.]
 	[NAME:okhamye:okhamyes:okhamyete]
 	[CASTE_NAME:okhamye:okhamyes:okhamyete]
 	[CREATURE_CLASS:DORATORIAN][CREATURE_CLASS:BRACKISH]	[CREATURE_CLASS:FRESHWATER][CREATURE_CLASS:SALTWATER]

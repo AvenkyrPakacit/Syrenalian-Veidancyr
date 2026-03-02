@@ -1,14 +1,14 @@
 creature_doratorian_domestic
-0/5 anybroadleaftemperate
-5/5 anyforest domestic
-5/5 anylake domestic
-5/5 anylaketemperate
-5/5 lakebrackishwatertemperate
-5/5 lakefreshwatertemperate
-5/5 lakesaltwatertemperate
-5/5 anytemperateforest
-5/5 broadleaftemperate
-5/5 conifertemperate
+10/15 anybroadleaftemperate
+15/15 anyforest
+15/15 anylake
+15/15 anylaketemperate
+10/10 lakebrackishwatertemperate
+10/10 lakefreshwatertemperate
+10/10 lakesaltwatertemperate
+10/10 anytemperateforest
+10/10 broadleaftemperate
+10/10 conifertemperate
 Total:125
 [OBJECT:CREATURE]
 
@@ -17,7 +17,7 @@ anybroadleaftemperate
 [CREATURE:SV_DOMESTIC_ABT_DOR1] -PETVALUE:120 -vermin
 	[NAME:chaqua:chaquas:chaqua]
 	[BODY:SV_BODY_E:SV_HEAD:SV_BRAIN:SV_3EYES_CENTER:SV_BEAK:SV_TONGUE:SV_2WINGS:SV_2LEGS:SV_2TOES:SV_HEART:SV_LIVER:SV_LUNGS:SV_STOMACH:SV_PANCREAS:SV_SPLEEN:SV_KIDNEYS:SV_GUTS]
-	[DESCRIPTION:A tiny flightless bird originating from Dorator.]
+	[DESCRIPTION:A tiny flightless bird originating from Dorator. It is covered in soft dowy feathers, and often flies alone.]
 	[GENERAL_CHILD_NAME:chaqua centuryling:chaqua centurylings]
 	[CASTE_NAME:chaqua:chaquas:chaqua]
 	[COMMON_DOMESTIC][PET][PETVALUE:120]
@@ -191,7 +191,7 @@ anybroadleaftemperate
 [CREATURE:SV_DOMESTIC_ABT_DOR2] -PETVALUE:125
 	[NAME:uweikyr:uweikyri:uweikyr]
 	[BODY:SV_BODY_E:SV_HEAD:SV_BRAIN:SV_3EYES_CENTER:SV_BEAK:SV_TONGUE:SV_2WINGS:SV_2LEGS:SV_2TOES:SV_HEART:SV_LIVER:SV_LUNGS:SV_STOMACH:SV_PANCREAS:SV_SPLEEN:SV_KIDNEYS:SV_GUTS]
-	[DESCRIPTION:A small flightless bird originating from Dorator.]
+	[DESCRIPTION:A small flightless bird originating from Dorator. It chirps and pecks the ground looking for prey. It often pecks it's own feathers off to clean itself.]
 	[GENERAL_CHILD_NAME:uweikyr centuryling:uweikyri centurylings]
 	[CASTE_NAME:uweikyr:uweikyri:uweikyr]
 	[COMMON_DOMESTIC][PET][PETVALUE:125]
@@ -280,6 +280,28 @@ anybroadleaftemperate
 		[BP_APPEARANCE_MODIFIER:HEIGHT:90:95:98:100:102:105:110]
 			[APP_MOD_IMPORTANCE:700]
 			[APP_MOD_DESC_RANGE:91:94:98:102:106:109]
+	[CAN_DO_INTERACTION:SV_BITE_PLAY]
+		[CDI:ADV_NAME:Playful bite]
+		[CDI:USAGE_HINT:GREETING]
+		[CDI:BP_REQUIRED:BY_CATEGORY:BEAK]
+		[CDI:VERB:playfully bite:playfully bites:playfully bite each other]
+		[CDI:CAN_BE_MUTUAL]
+		[CDI:TARGET:A:SELF_ONLY]
+		[CDI:TARGET:B:TOUCHABLE]
+		[CDI:TARGET_RANGE:B:1]
+		[CDI:MAX_TARGET_NUMBER:B:1]
+		[CDI:WAIT_PERIOD:420]
+	[CAN_DO_INTERACTION:SV_CLEANING]
+		[CDI:ADV_NAME:carefully peck]
+		[CDI:USAGE_HINT:CLEAN_SELF]
+		[CDI:USAGE_HINT:CLEAN_FRIEND]
+		[CDI:BP_REQUIRED:BY_CATEGORY:TONGUE]
+		[CDI:VERB:carefully peck:carefully pecks:carefully peck each other]
+		[CDI:CAN_BE_MUTUAL]
+		[CDI:TARGET:A:SELF_ALLOWED:TOUCHABLE]
+		[CDI:TARGET_RANGE:A:1]
+		[CDI:MAX_TARGET_NUMBER:A:1]
+		[CDI:WAIT_PERIOD:120]
 	[APPLY_CREATURE_VARIATION:SV_ATTACK_BITE_BEAK_SMALL]
 	[PHYS_ATT_RANGE:STRENGTH:250:500:750:1000:1499:1749:1999]
 	[PHYS_ATT_RANGE:AGILITY:150:400:650:1149:1399:1649:1899]
@@ -365,7 +387,7 @@ anybroadleaftemperate
 [CREATURE:SV_DOMESTIC_ABT_DOR3] -PETVALUE:130 -yarn
 	[NAME:akfuph:akfuphs:akfuph]
 	[BODY:SV_BODY_E:SV_HEAD:SV_BRAIN:SV_3EYES_CENTER:SV_BEAK:SV_TONGUE:SV_2LEGS_FRONT:SV_2LEGS_BACK:SV_4TOES:SV_HEART:SV_LIVER:SV_LUNGS:SV_STOMACH:SV_PANCREAS:SV_SPLEEN:SV_KIDNEYS:SV_GUTS]
-	[DESCRIPTION:A large avian originating from Dorator, with dense layers of fluff.]
+	[DESCRIPTION:A large avian originating from Dorator, with dense layers of fluff. They are often kept around packs to gather what they molt.]
 	[GENERAL_CHILD_NAME:akfuph centuryling:akfuph centurylings]
 	[CASTE_NAME:akfuph:akfuphs:akfuph]
 	[COMMON_DOMESTIC][PET][PETVALUE:130]
@@ -551,7 +573,7 @@ anybroadleaftemperate
 [CREATURE:SV_DOMESTIC_ABT_DOR4] -PETVALUE:135 -pack, wagon, mount
 	[NAME:akafwi:akafwis:akafwi]
 	[BODY:SV_BODY_E:SV_HEAD:SV_BRAIN:SV_3EYES_CENTER:SV_BEAK:SV_TONGUE:SV_2LEGS_FRONT:SV_2LEGS_BACK:SV_4TOES:SV_HEART:SV_LIVER:SV_LUNGS:SV_STOMACH:SV_PANCREAS:SV_SPLEEN:SV_KIDNEYS:SV_GUTS]
-	[DESCRIPTION:A large avian originating from Dorator.]
+	[DESCRIPTION:A large avian originating from Dorator. They are often kept in packs for transporting items.]
 	[GENERAL_CHILD_NAME:akafwi centuryling:akafwi centurylings]
 	[CASTE_NAME:akafwi:akafwis:akafwi]
 	[COMMON_DOMESTIC][PET][PETVALUE:135]
@@ -725,7 +747,7 @@ anybroadleaftemperate
 [CREATURE:SV_DOMESTIC_ABT_DOR5] -trainable 145
 	[NAME:kawato:kawatos:kawato]
 	[BODY:SV_BODY_E:SV_HEAD:SV_BRAIN:SV_3EYES_CENTER:SV_BEAK:SV_TONGUE:SV_2LEGS_FRONT:SV_2LEGS_BACK:SV_4TOES:SV_HEART:SV_LIVER:SV_LUNGS:SV_STOMACH:SV_PANCREAS:SV_SPLEEN:SV_KIDNEYS:SV_GUTS]
-	[DESCRIPTION:A large avian originating from Dorator.]
+	[DESCRIPTION:A large avian originating from Dorator. They are often kept around packs for their ornery nature]
 	[GENERAL_CHILD_NAME:kawato centuryling:kawato centurylings]
 	[CASTE_NAME:kawato:kawatos:kawato]
 	[COMMON_DOMESTIC][PET][PETVALUE:145]
