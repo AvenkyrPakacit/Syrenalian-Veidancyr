@@ -1,13 +1,15 @@
 creature_doratorian_wilderness
-2/5 anybroadleaftemperate wilderness ANY_TEMPERATE_BROADLEAF Difficulty 10]
-5/5 anyforest wilderness ANY_FOREST Difficulty 11]
-5/5 anypool wilderness ANY_POOL Difficulty 6]
-4/5 anytemperateforest wilderness ANY_TEMPERATE_FOREST Difficulty 12]
-5/5 broadleaftemperate wilderness FOREST_TEMPERATE_BROADLEAF Difficulty 14]
-5/5 conifertemperate wilderness FOREST_TEMPERATE_CONIFER Difficulty 13]
-5/5 poolbrackishwatertemperate wilderness POOL_TEMPERATE_BRACKISHWATER Difficulty 7]
-5/5 poolfreshwatertemperate wilderness POOL_TEMPERATE_FRESHWATER Difficulty 8]
-5/5 poolsaltwatertemperate wilderness POOL_TEMPERATE_SALTWATER Difficulty 9]
+10/15 anybroadleaftemperate
+15/15 anyforest
+15/15 anylake
+15/15 anylaketemperate
+10/10 lakebrackishwatertemperate
+10/10 lakefreshwatertemperate
+10/10 lakesaltwatertemperate
+10/10 anytemperateforest
+10/10 broadleaftemperate
+10/10 conifertemperate
+Total:125
 [OBJECT:CREATURE]
 
 -anybroadleaftemperate
@@ -340,7 +342,8 @@ creature_doratorian_wilderness
 		[ATTACK_PREPARE_AND_RECOVER:2:3]
 		[ATTACK_PRIORITY:MAIN]
 		[ATTACK_FLAG_CANLATCH]
-		[SPECIALATTACK_INTERACTION:SV_BITE_LARGE]		[ATTACK:PUNCH:BODYPART:BY_TYPE:GRASP]
+		[SPECIALATTACK_INTERACTION:SV_BITE_LARGE]
+	[ATTACK:PUNCH:BODYPART:BY_TYPE:GRASP]
 		[ATTACK_SKILL:GRASP_STRIKE]
 		[ATTACK_VERB:punch:punches]
 		[ATTACK_CONTACT_PERC:100]
@@ -390,7 +393,7 @@ creature_doratorian_wilderness
 	[MENT_ATT_RANGE:SPATIAL_SENSE:793:1043:1293:1792:2042:2292:2542]
 	[MENT_ATT_RANGE:MUSICALITY:251:501:751:1001:1500:1750:2000]
 	[MENT_ATT_RANGE:KINESTHETIC_SENSE:500:750:1249:1499:1749:1999:5000]
-	[MENT_ATT_RANGE:EMPATHY:251:500:750:1249:1499:1749:1999:5000]
+	[MENT_ATT_RANGE:EMPATHY:251:500:750:1249:1499:1749:1999]
 	[MENT_ATT_RANGE:SOCIAL_AWARENESS:251:501:751:1250:1500:1750:2000]
 	[PERSONALITY:LOVE_PROPENSITY:24:60:90]
 	[PERSONALITY:HATE_PROPENSITY:39:75:100]
@@ -2421,7 +2424,7 @@ creature_doratorian_wilderness
 
 -anyforest
 
--anypool
+-anylake
 
 -anytemperateforest
 
@@ -3338,8 +3341,8 @@ creature_doratorian_wilderness
 
 -conifertemperate
 
--poolbrackishwatertemperate
+-lakebrackishwatertemperate
 
--poolfreshwatertemperate
+-lakefreshwatertemperate
 
--poolsaltwatertemperate
+-lakesaltwatertemperate

@@ -1,13 +1,15 @@
 creature_doratorian_medium 1x3
-5/5 anybroadleaftemperate medium 360-385 Difficulty 7]
-4/5 anyforest medium 450-475 Difficulty 8]
-5/5 anypool medium 15-40 Difficulty 3]
-5/5 anytemperateforest medium 540-565 Difficulty 9]
-5/5 broadleaftemperate medium 720-745 Difficulty 11]
-5/5 conifertemperate medium 630-655 Difficulty 10]
-5/5 poolbrackishwatertemperate medium 90-115 Difficulty 4]
-5/5 poolfreshwatertemperate medium 180-205 Difficulty 5]
-5/5 poolsaltwatertemperate medium 270-295 Difficulty 6]
+15/15 anybroadleaftemperate
+14/15 anyforest
+15/15 anylake
+15/15 anylaketemperate
+10/10 lakebrackishwatertemperate
+10/10 lakefreshwatertemperate
+10/10 lakesaltwatertemperate
+10/10 anytemperateforest
+10/10 broadleaftemperate
+10/10 conifertemperate
+Total:125
 [OBJECT:CREATURE]
 
 -anybroadleaftemperate
@@ -85,7 +87,7 @@ creature_doratorian_medium 1x3
 			[TL_COLOR_MODIFIER:BLACK:1]
 				[TLCM_NOUN:eyes:PLURAL]
 
--anypool
+-anylake
 
 -anytemperateforest
 
@@ -93,8 +95,8 @@ creature_doratorian_medium 1x3
 
 -conifertemperate
 
--poolbrackishwatertemperate
+-lakebrackishwatertemperate
 
--poolfreshwatertemperate
+-lakefreshwatertemperate
 
--poolsaltwatertemperate
+-lakesaltwatertemperate

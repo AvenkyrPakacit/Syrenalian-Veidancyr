@@ -1,21 +1,22 @@
 creature_doratorian_sentient
--anybroadleaftemperate Difficulty 11]
--anyforest Difficulty 12]
--anytemperateforest Difficulty 13]
--broadleaftemperate Difficulty 15]
--conifertemperate Difficulty 14]
+2/3-anybroadleaftemperate Difficulty 11
+2/3-anyforest Difficulty 12
+2/3-anytemperateforest Difficulty 13
+2/3-broadleaftemperate Difficulty 15
+3/4-conifertemperate Difficulty 14
+Total:16
 [OBJECT:CREATURE]
 
 -anybroadleaftemperate
 
-[CREATURE:SV_ABT_SENTIENT]
+[CREATURE:SV_ABT_SENTIENT_1]
 	[DESCRIPTION:An average sized individual with poison glands in place of their eyes. They are known for their sacred vaults, and ecological efforts.]
 	[BODY:HUMANOID_NECK:HEART:GUTS:NECK:BRAIN:SV_POISONGLANDS_EYES:SV_ANTTENAE_BIOLOGICAL:2HEAD_HORN:NOSE:2EARS:THROAT:MOUTH:3FINGERS:3TOES]
 	[NAME:ante'lianye:ante'lianyes:lianye]
 	[CASTE_NAME:ante'lianye:ante'lianyes:lianye]
 	[SPEECH:text_lianye.txt][MAXAGE:4500:9999][VIEWRANGE:10]
 	[COLOR:6:0:0][DIURNAL][FANCIFUL][VISION_ARC:10:20]
-	[CREATURE_TILE:108][FANCIFUL][PREFSTRING:will][BENIGN]
+	[CREATURE_TILE:108][PREFSTRING:will][BENIGN]
 	[CREATURE_CLASS:TEMPERATE][CREATURE_CLASS:CARNIVORE]
 	[INTELLIGENT][CREATURE_CLASS:BROADLEAF]
 	[PROFESSION_NAME:MINER:tribe miner:tribe miners]
@@ -204,14 +205,14 @@ creature_doratorian_sentient
 
 -anyforest
 
-[CREATURE:SV_AF_SENTIENT]
+[CREATURE:SV_AF_SENTIENT_1]
 	[DESCRIPTION:An average sized individual with a quilled back. They are known for their brash attitude, and furiosity!]
 	[BODY:SV_BIPED_STANCE:HEART:GUTS:NECK:BRAIN:2EYES:THROAT:SV_4MANDIBLES:5FINGERS:2TOES:SV_SPIKE_LAYOUT_8:SV_SPIKE_BASE_THICK:SV_SPIKE_3]
 	[NAME:jakrapakav:jakrapakavs:jakrapakave]
 	[CASTE_NAME:jakrapakav:jakrapakavs:jakrapakave]
 	[MAXAGE:4500:9999][SPEECH:text_jakrapakave.txt]
 	[COLOR:0:0:1][DIURNAL][FANCIFUL][CREATURE_CLASS:CARNIVORE]
-	[CREATURE_TILE:67][FANCIFUL][PREFSTRING:will][BENIGN]
+	[CREATURE_TILE:67][PREFSTRING:will][BENIGN]
 	[CREATURE_CLASS:TEMPERATE][CREATURE_CLASS:TROPICAL]
 	[BODYGLOSS:SV_PAWFORE][BODYGLOSS:SV_PAWHIND][INTELLIGENT]
 	[PROFESSION_NAME:MINER:clan miner:clan miners]
@@ -515,7 +516,7 @@ creature_doratorian_sentient
 
 -anytemperateforest
 
-[CREATURE:SV_ATF_SENTIENT] anytemperateforest sentient
+[CREATURE:SV_ATF_SENTIENT_1] anytemperateforest sentient
 	[NAME:voderai:voderai:voderai]
 	[SYNDROME_DILUTION_FACTOR:DORATORIAN_CUISINE:75]
 	[GENERAL_CHILD_NAME:centuryling:centurylings]
@@ -1679,12 +1680,12 @@ creature_doratorian_sentient
 
 -broadleaftemperate
 
-[CREATURE:SV_BT_SENTIENT]
+[CREATURE:SV_BT_SENTIENT_1]
 	[BODY:HUMANOID_NECK:HEART:GUTS:NECK:BRAIN:SV_BEAK_RIDGED1:2EYES:THROAT:MOUTH:3FINGERS:3TOES]
 	[NAME:chyratyl:chyratyls:chyratylian]
 	[SPEECH:text_chyratylian.txt][MAXAGE:4500:9999]
 	[COLOR:2:0:1][NOCTURNAL][FANCIFUL]
-	[CREATURE_TILE:99][FANCIFUL][PREFSTRING:will][BENIGN]
+	[CREATURE_TILE:99][PREFSTRING:will][BENIGN]
 	[CREATURE_CLASS:TEMPERATE][CREATURE_CLASS:OMNIVORE]
 	[INTELLIGENT][CREATURE_CLASS:CONIFER]
 	[PROFESSION_NAME:MINER:cult miner:cult miners]
@@ -1906,14 +1907,14 @@ creature_doratorian_sentient
 
 -conifertemperate
 
-[CREATURE:SV_CT_SENTIENT]
+[CREATURE:SV_CT_SENTIENT_1]
 	[DESCRIPTION:An average sized individual..]
 	[BODY:HUMANOID_NECK:HEART:GUTS:NECK:BRAIN:SV_4MANDIBLES:2EYES:THROAT:MOUTH:3FINGERS:3TOES]
 	[NAME:akerasan:akerasans:akerasan]
 	[CASTE_NAME:akerasan:akerasans:akerasan]
 	[SPEECH:text_chyratylian.txt][MAXAGE:4500:9999]
 	[COLOR:2:0:1][DIURNAL][FANCIFUL]
-	[CREATURE_TILE:97][FANCIFUL][PREFSTRING:will][BENIGN]
+	[CREATURE_TILE:97][PREFSTRING:will][BENIGN]
 	[CREATURE_CLASS:TEMPERATE][CREATURE_CLASS:OMNIVORE]
 	[INTELLIGENT][CREATURE_CLASS:CONIFER]
 	[PROFESSION_NAME:MINER:tribe miner:tribe miners]

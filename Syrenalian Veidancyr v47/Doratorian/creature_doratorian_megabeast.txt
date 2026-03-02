@@ -1,20 +1,21 @@
 creature_doratorian_megabeast 1
 highest large + 5 x (megabeast = 6), (semimegabeast = 5)
-0/1 anybroadleaftemperate megabeast Difficulty 13]
-0/1 anybroadleaftemperate semimegabeast Difficulty 12]
-1/1 anyforest megabeast Difficulty 14]
-1/1 anyforest semimegabeast Difficulty 13]
-1/1 anytemperateforest megabeast Difficulty 15]
-1/1 anytemperateforest semimegabeast Difficulty 14]
-1/1 broadleaftemperate megabeast Difficulty 17]
-1/1 broadleaftemperate semimegabeast Difficulty 16]
-1/1 conifertemperate megabeast Difficulty 16]
-1/1 conifertemperate semimegabeast Difficulty 15]
-[OBJECT:CREATURE]990 
+1/2 anybroadleaftemperate megabeast Difficulty 13
+1/2 anybroadleaftemperate semimegabeast Difficulty 12
+2/2 anyforest megabeast Difficulty 14
+2/2 anyforest semimegabeast Difficulty 13
+2/2 anytemperateforest megabeast Difficulty 15
+2/2 anytemperateforest semimegabeast Difficulty 14
+1/1 broadleaftemperate megabeast Difficulty 17
+1/1 broadleaftemperate semimegabeast Difficulty 16
+1/1 conifertemperate megabeast Difficulty 16
+1/1 conifertemperate semimegabeast Difficulty 15
+Total:16
+[OBJECT:CREATURE]
 
 -anybroadleaftemperate
 
-[CREATURE:SV_ABT_MEGABEAST] megabeast
+[CREATURE:SV_ABT_MEGABEAST_1] megabeast
 	[ARENA_RESTRICTED]
 	[NAME:cseiviaka:cseiviakas:cseiviakate]
 	[BODY:SV_BIPED_STANCE:BRAIN:2EYES:SV_BEAK_RIDGED1:TONGUE:4TOES:TAIL:4FINGERS:FACIAL_FEATURES:HEART:ORGANS:GUTS:SKULL:SPINE:NECK:THROAT:HUMANOID_JOINTS:RIBCAGE:SV_FACIALDETAIL_FEATHERS:SV_BODYDETAIL_FEATHERS:SV_2ARMDETAIL_FEATHERS:SV_2LEGDETAIL_FEATHERS]
@@ -36,7 +37,7 @@ highest large + 5 x (megabeast = 6), (semimegabeast = 5)
 	[LARGE_PREDATOR][SPHERE:FISHING][SPHERE:REVENGE]
 	[PETVALUE:5940][SPHERE:OCEANS][TRAINABLE_WAR]
 	[DIFFICULTY:11]
-		[ATTACK_TRIGGER:ATTACK_TRIGGER:80:10000:100000]
+		[ATTACK_TRIGGER:80:10000:100000]
 	[HABIT_NUM:TEST_ALL][HABIT:GIANT_NEST:100]
 	[FREQUENCY:25][MOUNT_EXOTIC]
 	[SWIMS_INNATE][COLOR:0:0:0]
@@ -535,7 +536,7 @@ highest large + 5 x (megabeast = 6), (semimegabeast = 5)
 	[SELECT_MATERIAL:ALL]
 		[MULTIPLY_VALUE:11]
 
-[CREATURE:SV_ABT_SEMIMEGABEAST] semimegabeast
+[CREATURE:SV_ABT_SEMIMEGABEAST_1] semimegabeast
 	[ARENA_RESTRICTED]
 	[NAME:araka:arakas:arakate]
 	[BODY:SV_BIPED_STANCE:BRAIN:2EYES:SV_BEAK_RIDGED1:TONGUE:4TOES:TAIL:4FINGERS:FACIAL_FEATURES:HEART:ORGANS:GUTS:SKULL:SPINE:NECK:THROAT:HUMANOID_JOINTS:RIBCAGE:SV_FACIALDETAIL_FEATHERS:SV_BODYDETAIL_FEATHERS:SV_2ARMDETAIL_FEATHERS:SV_2LEGDETAIL_FEATHERS]
@@ -557,7 +558,7 @@ highest large + 5 x (megabeast = 6), (semimegabeast = 5)
 	[LARGE_PREDATOR][SPHERE:JUSTICE][SPHERE:LUCK]
 	[PETVALUE:4950][SPHERE:SILENCE][TRAINABLE_WAR]
 	[DIFFICULTY:10]
-		[ATTACK_TRIGGER:ATTACK_TRIGGER:80:10000:100000]
+		[ATTACK_TRIGGER:80:10000:100000]
 	[HABIT_NUM:TEST_ALL][HABIT:GIANT_NEST:100]
 	[FREQUENCY:25][MOUNT_EXOTIC]
 	[SWIMS_INNATE][COLOR:0:0:0]

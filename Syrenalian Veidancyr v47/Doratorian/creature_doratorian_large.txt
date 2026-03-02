@@ -1,20 +1,22 @@
 creature_doratorian_large 1x4
-5/5 anybroadleaftemperate large 480-505 Difficulty 9]
-5/5 anyforest large 600-625 Difficulty 10]
-5/5 anypool large 20-45 Difficulty 5]
-3/5 anytemperateforest large 720-745 Difficulty 11]
-5/5 broadleaftemperate large 960-985 Difficulty 13]
-5/5 conifertemperate large 840-865 Difficulty 12]
-5/5 poolbrackishwatertemperate large 120-145 Difficulty 6]
-5/5 poolfreshwatertemperate large 240-265 Difficulty 7]
-5/5 poolsaltwatertemperate large 360-385 Difficulty 8]
+15/15 anybroadleaftemperate
+10/15 anyforest
+15/15 anylake
+15/15 anylaketemperate
+10/10 lakebrackishwatertemperate
+10/10 lakefreshwatertemperate
+10/10 lakesaltwatertemperate
+8/10 anytemperateforest
+10/10 broadleaftemperate
+10/10 conifertemperate
+Total:125
 [OBJECT:CREATURE]
 
 anybroadleaftemperate
 
 anyforest
 
-anypool
+anylake
 
 anytemperateforest
 
