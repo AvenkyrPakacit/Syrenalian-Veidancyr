@@ -2,7 +2,7 @@ item_syrnl_main_pants
 
 [OBJECT:ITEM]
 
-[ITEM_PANTS:SYRNL_BELT]
+[ITEM_PANTS:SV_BELT]
 [ADJECTIVE:tasseted]
 [NAME:belt:belt]
 [LBSTEP:MAX]
@@ -15,7 +15,7 @@ item_syrnl_main_pants
 [LEATHER]
 [STRUCTURAL_ELASTICITY_WOVEN_THREAD]
 
-[ITEM_PANTS:SYRNL_LEGPLATES]
+[ITEM_PANTS:SV_LEGPLATES]
 [NAME:legplates:legplates]
 [ARMORLEVEL:3]
 [LBSTEP:MAX]
@@ -27,7 +27,7 @@ item_syrnl_main_pants
 [METAL]
 [HARD]
 
-[ITEM_PANTS:SYRNL_LEGWRAP]
+[ITEM_PANTS:SV_LEGWRAP]
 [NAME:legwrap:legwraps]
 [MATERIAL_SIZE:1]
 [LBSTEP:MAX]
@@ -39,7 +39,7 @@ item_syrnl_main_pants
 [LEATHER]
 [STRUCTURAL_ELASTICITY_WOVEN_THREAD]
 
-[ITEM_PANTS:SYRNL_SKIRT]
+[ITEM_PANTS:SV_SKIRT]
 [NAME:partial skirt:partial skirts]
 [LBSTEP:1]
 [LAYER:OVER]
@@ -51,7 +51,7 @@ item_syrnl_main_pants
 [LEATHER]
 [STRUCTURAL_ELASTICITY_WOVEN_THREAD]
 
-[ITEM_PANTS:SYRNL_UNDERWEAR]
+[ITEM_PANTS:SV_UNDERWEAR]
 [NAME:underwear:underwear]
 [PREPLURAL:pairs of]
 [LAYER:UNDER]
